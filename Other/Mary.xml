@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Mary</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Mary</url>
+  <parent_folder>Other</parent_folder>
+  <section>
+    History
+    <paragraph>Mary is a 30 year-old female who presented complaining of two months of progressive low back pain and severe, radiating pain in the right lower extremity. At the time of presentation, she reported associated numbness and weakness in her right lower extremity, particularly in her calf muscle. Her ability to ambulate and perform usual activities was severely impaired.</paragraph>
+    <paragraph>She had failed a full range of conservative treatment options including: lumbar spine activity modification, physical therapy, epidural steroid injections, and oral medications (including steroids, anti-inflammatories, muscle relaxants and narcotic pain medication).</paragraph>
+  </section>
+  <section>
+    Examination
+    <paragraph>On examination, she was found to have reduced range of motion of her lumbar spine, positive sciatic nerve stretch testing, and measurable weakness in her calf muscle on the right side. Her gait was impaired, and she walked with a limp.</paragraph>
+    <paragraph>Pre-operative MRI</paragraph>
+    <paragraph/>
+    <image src="https://www.physio-pedia.com/images/a/a9/Lumbar-disc-herniation.png"/>
+    <image src="https://www.physio-pedia.com/images/d/da/Lumbar-disc-herniation-2.png"/>
+    <paragraph/>
+  </section>
+  <section>
+    Diagnosis
+    <paragraph>Her MRI revealed a large right-sided L5-S1 extruded disc herniation with superior migration up to the level of the L5 vertebral body. This herniated disc was resulting in severe L5-S1 spinal stenosis and compression of the right-sided nerve roots (radiculopathy) manifesting in pain, numbness, and weakness.</paragraph>
+  </section>
+  <section>
+    Treatment
+    <paragraph>The patient underwent a minimally invasive microdiscectomy at L5-S1 through a 18mm incision utilizing the operating microscope and a tubular retractor.</paragraph>
+    <paragraph>This procedure allowed for removal of the extruded disc fragments that were compressing and pinching the nerve roots in the lumbar spine.</paragraph>
+    <paragraph>Post-operative MRI</paragraph>
+    <paragraph/>
+    <image src="https://www.physio-pedia.com/images/c/c5/Post-microdiscectomy.png"/>
+    <image src="https://www.physio-pedia.com/images/a/a3/Image008.png"/>
+    <paragraph>After a brief outpatient surgical procedure the patient experienced return of strength in her right calf and resolution of pain. She then returned to work one week following the procedure.</paragraph>
+  </section>
+</document>

@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Wheelchair Service Provision Case Study - Selecting Wheelchair Size</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Wheelchair_Service_Provision_Case_Study_-_Selecting_Wheelchair_Size</url>
+  <parent_folder>Wheelchair Service Provision</parent_folder>
+  <section>
+    Wheelchair 1
+    <table>
+      <tr>
+        <th/>
+        <th>Body Measurement</th>
+        <th>Measurement (mm)</th>
+        <th>Change Body Measurement to Ideal Wheelchair Size</th>
+        <th>Wheelchair Measurement</th>
+      </tr>
+      <tr>
+        <td>A</td>
+        <td>Hip Width</td>
+        <td>380mm</td>
+        <td>Hip Width = Seat Width</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>B</td>
+        <td>Seat Depth</td>
+        <td>L</td>
+        <td>400mm</td>
+        <td>B less 30–60 mm = seat depthIf lengths are different, use shortest</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>R</td>
+        <td>400mm</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>C</td>
+        <td>Calf Length</td>
+        <td>L</td>
+        <td>420mm</td>
+        <td>= top of seat cushion to footrests height or= top of seat cushion to floor for foot propelling</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>R</td>
+        <td>420mm</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>D</td>
+        <td>Bottom of Rib Cage</td>
+        <td>-</td>
+        <td>= top of seat cushion to top of backrestMeasure D or E depending on the user’s need</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>E</td>
+        <td>Bottom of Shoulder Blade</td>
+        <td>380mm</td>
+        <td/>
+      </tr>
+    </table>
+    <paragraph>If lengths are different, use shortest</paragraph>
+    <paragraph>= top of seat cushion to floor for foot propelling</paragraph>
+    <paragraph>Measure D or E depending on the user’s need</paragraph>
+    <table>
+      <tr>
+        <th>Ideal Wheelchair Size for this Wheelchair User</th>
+      </tr>
+      <tr>
+        <td>Seat Width:</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>Seat Depth:</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>Backrest Height:</td>
+      </tr>
+    </table>
+  </section>
+  <section>
+    Wheelchair 2
+    <table>
+      <tr>
+        <th/>
+        <th>Body Measurement</th>
+        <th>Measurement (mm)</th>
+        <th>Change Body Measurement to Ideal Wheelchair Size</th>
+        <th>Wheelchair Measurement</th>
+      </tr>
+      <tr>
+        <td>A</td>
+        <td>Hip Width</td>
+        <td>420mm</td>
+        <td>Hip Width = Seat Width</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>B</td>
+        <td>Seat Depth</td>
+        <td>L</td>
+        <td>460mm</td>
+        <td>B less 30–60 mm = seat depthIf lengths are different, use shortest</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>R</td>
+        <td>460mm</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>C</td>
+        <td>Calf Length</td>
+        <td>L</td>
+        <td>360mm</td>
+        <td>= top of seat cushion to footrests height or= top of seat cushion to oor for foot propelling</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>R</td>
+        <td>360mm</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>D</td>
+        <td>Bottom of Rib Cage</td>
+        <td>260mm</td>
+        <td>= top of seat cushion to top of backrestMeasure D or E depending on the user’s need</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>E</td>
+        <td>Bottom of Shoulder Blade</td>
+        <td>-</td>
+        <td/>
+      </tr>
+    </table>
+    <paragraph>If lengths are different, use shortest</paragraph>
+    <paragraph>= top of seat cushion to oor for foot propelling</paragraph>
+    <paragraph>Measure D or E depending on the user’s need</paragraph>
+    <table>
+      <tr>
+        <th>Ideal Wheelchair Size for this Wheelchair User</th>
+      </tr>
+      <tr>
+        <td>Seat Width:</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>Seat Depth:</td>
+        <td/>
+      </tr>
+      <tr>
+        <td>Backrest Height:</td>
+        <td/>
+      </tr>
+    </table>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑1.01.1Sarah Frost, Kylie Mines, Jamie Noon, Elsje Scheffler, and Rebecca Jackson Stoeckle. Wheelchair Service Training Package - Reference Manual for Participants - Basic Level. World Health Organization, Geneva. 2012</item>
+    </list>
+  </section>
+</document>

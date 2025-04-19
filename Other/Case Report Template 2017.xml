@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Case Report Template 2017</title>
+  <source>Case Report extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Case_Report_Template_2017</url>
+  <parent_folder>Other</parent_folder>
+  <section/>
+  <section>
+    Keywords
+    <paragraph/>
+  </section>
+  <section>
+    Word count
+    <paragraph>word count &lt;2000 words</paragraph>
+  </section>
+  <section>
+    Author/s
+    <paragraph/>
+  </section>
+  <section>
+    Abstract
+    <paragraph/>
+  </section>
+  <section>
+    Introduction
+    <paragraph/>
+  </section>
+  <section>Case Presentation</section>
+  <section>
+    Clinical Impression
+    <paragraph>Summarization of examination findings, working diagnosis and targeted interventions</paragraph>
+  </section>
+  <section>Intervention</section>
+  <section>
+    Outcomes
+    <paragraph>Findings Over time</paragraph>
+  </section>
+  <section>
+    Discussion
+    <paragraph>Summary Statement which should include related findings in the literature, potential impact on clinical practices</paragraph>
+  </section>
+  <section>
+    Acknowledgements
+    <paragraph>If someone provided assistance with the preparation of the case study, we thank them briefly. It is neither necessary nor conventional to thank the patient (although we appreciate what they have taught us). It would generally be regarded as excessive and inappropriate to thank others, such as teachers or colleagues who did not directly participate in preparation of the paper.</paragraph>
+  </section>
+  <section>
+    Related Pages
+    <paragraph>add links to related Physiopedia pages here</paragraph>
+  </section>
+  <section>
+    References
+    <paragraph>References will automatically be added here, seeadding references tutorial.</paragraph>
+    <paragraph/>
+  </section>
+</document>

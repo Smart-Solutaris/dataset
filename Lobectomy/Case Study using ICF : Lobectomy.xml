@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Case Study using ICF : Lobectomy</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Case_Study_using_ICF_:_Lobectomy</url>
+  <parent_folder>Lobectomy</parent_folder>
+  <section>
+    Abstract
+    <paragraph>This article will cover a case study of Mr. V, who has been recently undergone lobectomy secondary tobronchiectasis. He has been recommended physiotherapy in theICU. The article follows the journey of the physiotherapist assessing Mr. V usingICFformat.</paragraph>
+    <paragraph>Please note the below case study is imaginary but inspired from actual pulmonary surgical patients. Therefore, it may not include all symptoms or signs of the disease condition. Do keep in mind that the patient assessment findings will vary slightly from patient to patient, changing the treatment protocol accordingly.</paragraph>
+  </section>
+  <section>
+    Client Characteristics
+    <paragraph>Mr. V is a 45 year old veterinary doctor by profession, who handles cattle &amp; poultry animals. He has history of (H/O) repeated chest infection which causes productive cough for the last 5 yr. He recently had such an episode which resulted in him unable to breathe due to severedyspnea&amp; required hospitalization. He was diagnosed with bronchiectasis and Rt. upper lobecollapse. He was advised &amp; underwent Rt. side upper lobe lobectomy. His currentchest X-rayshows Rt. Sided tracheal deviation, volume loss with elevation of diaphragm of Rt. Side. Onauscultationhe was found to have reduced breath sounds on right upper &amp; middle zone &amp; inspiratory crepitation present Rt. upper &amp; middle zone. His chest expansion is also reduced on the rt. side. The patient is referred for physiotherapy post-operative day-2, can sit up in bed with support and has anintercostal drainon Rt. side. He still has productive sputum but it is painful (On VAS: at rest-2/10, movement- 6/10) for him to cough it out. He is married &amp; has a teenage daughter both who are supportive of his treatment. He wants to start working again as soon as possible after discharge but has been advised a rest of at least 2 weeks. HisBMIis 32 &amp; is a non-smoker.</paragraph>
+  </section>
+  <section>
+    Examination Findings
+    <paragraph>This consists of Mr. V's history, investigations and objective examination.</paragraph>
+  </section>
+  <section>
+    History
+    <paragraph>Mr. V has a history &amp; Chief complaints of</paragraph>
+  </section>
+  <section>
+    Investigations
+    <paragraph>This radiological investigations help us understand the areas of lung involved and is also an outcome measure post physiotherapy treatment.</paragraph>
+  </section>
+  <section>
+    Objective Examination
+    <paragraph>Mr. V was assessed in sitting position. He was found to have</paragraph>
+    <paragraph>Mr. S assessed in sitting position had,</paragraph>
+  </section>
+  <section>Summarizing Assessment using ICF</section>
+  <section>
+    Structural and Functional Impairments
+    <table>
+      <tr>
+        <th>Sr. No.</th>
+        <td>Structural &amp; Functional Impairement</td>
+        <td>Clinical Reasoning(due to)</td>
+        <td>Correlate  on Examination</td>
+      </tr>
+      <tr>
+        <th>1.</th>
+        <td>Break in the continuity of skin at Rt. Post  lateral aspect of chest wall</td>
+        <td>Due to the operative procedure of Rt.  Upper lobe removal</td>
+        <td>From post-operative notes &amp; inspection</td>
+      </tr>
+      <tr>
+        <th>2.</th>
+        <td>Collapse of Rt. Upper lobe</td>
+        <td>Due to secondary bronchiectasis causing  extensive tissue damage, Reduced bronchovascular markings, air entry, Trail’s  sign present on Rt. side</td>
+        <td>From HRCT, X-ray, palpation &amp;  auscultation</td>
+      </tr>
+      <tr>
+        <th>3.</th>
+        <td>Rt. Sided tracheal deviation</td>
+        <td>Due to collapse of Rt. Upper lobe &amp;  Trail’s sign present on Rt. side</td>
+        <td>On X-ray &amp; palpation</td>
+      </tr>
+      <tr>
+        <th>4.</th>
+        <td>Elevation of Rt. diaphragm</td>
+        <td>Due to volume loss of Rt. Upper lobe</td>
+        <td>On X-ray</td>
+      </tr>
+      <tr>
+        <th>5.</th>
+        <td>Dilatation of bronchioles &amp; airway in  Rt. Upper &amp; middle lobe</td>
+        <td>due to chronic inflammation of airway as  a result of repeated chest infections &amp; presence of irritant (poultry  &amp; cattle exposure)</td>
+        <td>On HRCT</td>
+      </tr>
+      <tr>
+        <th>6.</th>
+        <td>Presence of bullae in Rt. Upper &amp;  middle lobe</td>
+        <td>due to extensive damage to lung tissue</td>
+        <td>seen on HRCT &amp; cough with  expectoration H/O</td>
+      </tr>
+      <tr>
+        <th>7.</th>
+        <td>Productive cough for the last 5 years</td>
+        <td>Daily exposure to irritant causing  repeated infections leading to sec. bronchial dilatation, impaired  mucociliary clearance  system &amp;  hyper secretion of goblet cells</td>
+        <td>From H/O , HRCT &amp; auscultation</td>
+      </tr>
+      <tr>
+        <th>8.</th>
+        <td>Pain at ICD site &amp; incision site</td>
+        <td>Due to Rt. Lobectomy done two days ago</td>
+        <td>From post-operative notes &amp; chief  complaints</td>
+      </tr>
+      <tr>
+        <th>9.</th>
+        <td>Reduced chest expansion of Rt. side</td>
+        <td>due to lack of proper elastic recoil of  lung as a result of Rt. Upper lobe removal &amp; post-operative pain</td>
+        <td>On inspection &amp; palpation</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Postural deviation with Rt. Shoulder  depressed as compared to Lt.</td>
+        <td>Due to loss of lung volume on Rt. Side  &amp; pain due to ICD</td>
+        <td>On inspection</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Protracted shoulders</td>
+        <td>Due to pain at incision &amp; ICD site</td>
+        <td>On inspection</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Reduced breath sounds on Rt. side</td>
+        <td>Due to loss of lung volume</td>
+        <td>On auscultation</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Inspiratory crepitation present in Rt.  side</td>
+        <td>Due to accumulation of secretions and  reduced chest expansion</td>
+        <td>On auscultation</td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Dull note present in Rt. Upper zone</td>
+        <td>Due to Rt. Upper lobe surgical removal</td>
+        <td>On percussion</td>
+      </tr>
+      <tr>
+        <td>15.</td>
+        <td>Increased resonance in Rt. Upper &amp;  middle zone</td>
+        <td>Due to Bronchiectasis &amp; Rt. Upper  lobe collapse</td>
+        <td>On Tactile vocal resonance</td>
+      </tr>
+      <tr>
+        <td>16.</td>
+        <td>Obesity class I</td>
+        <td>Due to lifestyle habits &amp; BMI of  32.2Kg/m</td>
+        <td>On H/O, Inspection, palpation</td>
+      </tr>
+    </table>
+    <paragraph>(due to)</paragraph>
+  </section>
+  <section>Activity Limitation</section>
+  <section>Participation Restriction</section>
+  <section>
+    Contextual Factors
+    <table>
+      <tr>
+        <td>Sr. No.</td>
+        <td>Barrier</td>
+        <td>Facilitator</td>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Works  with poultry &amp; cattle which caused his disease progression</td>
+        <td>Good  family support</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Does  not have access to physiotherapy set up due to living in rural area for his  work</td>
+        <td/>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td>Sr. No.</td>
+        <td>Barrier</td>
+        <td>Facilitator</td>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Sole  earning member of family</td>
+        <td>Motivated  to start pulmonary rehabilitation program post discharge</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Wants  to resume job too early, which may cause post op. complications</td>
+        <td>He  is non-smoker</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Obesity  class I</td>
+        <td/>
+      </tr>
+    </table>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑Weir CB, Jan A. BMI classification percentile and cut off points.https://www.ncbi.nlm.nih.gov/books/NBK541070/(accessed on 04.07.2023)</item>
+      <item>↑Schiavon M, Comacchio GM, Mammana M, Faccioli E, Stocca F, Gregori D, Lorenzoni G, Zuin A, Nicotra S, Pasello G, Calabrese F. Lobectomy with artery reconstruction and pneumonectomy for non-small cell lung cancer: a propensity score weighting study. The Annals of Thoracic Surgery. 2021 Dec 1;112(6):1805-13.</item>
+    </list>
+  </section>
+</document>

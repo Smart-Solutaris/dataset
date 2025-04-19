@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Expanded Disability Status Scale</title>
+  <source>nan extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Expanded_Disability_Status_Scale</url>
+  <parent_folder>Multiple Sclerosis </parent_folder>
+  <section>
+    Purpose
+    <paragraph>A neurologist John Kurtzke in 1983 designed a scale called Expanded Disability Status Scale (EDSS) as an advance from his previous 10-step Disability Status Scale (DSS). It is used to evaluate disability inmultiple sclerosisand monitor changes in the level of disability over time[1].</paragraph>
+  </section>
+  <section>
+    Technique
+    <image src="https://www.physio-pedia.com/images/thumb/7/79/Edss_image.jpg/280px-Edss_image.jpg"/>
+    <paragraph>The EDSS quantify disability of MS patients based on neurological assessment by categorizing signs and symptoms in eight functional systems (FS).  Furthermore, it comprises the ability to executeactivities of daily living (ADL)and ambulatory function.</paragraph>
+    <list>
+      <item>Visual functions: visual field, visual acuity, scotoma and disc pallor.</item>
+      <item>Brainstem functions:problems with speech, swallowing andnystagmus.</item>
+      <item>Pyramidal functions: muscle weakness or difficulty moving limbs</item>
+      <item>Cerebellar functions:ataxia,loss of balance, coordination or tremor.</item>
+      <item>Sensory functions: numbness or loss of function.</item>
+      <item>Bowel and bladder functions: urinary retention, urgency and bowel dysfunction</item>
+      <item>Cerebralfunctions: problems with thinking and memory</item>
+      <item>Ambulation score.</item>
+    </list>
+    <paragraph>Scores from 0 to 4.0 are determined by FS scores, which means that in this range the EDSS is essentially a measure of impairment. Scores of 4.0 higher basically address disability. Ambulatory function and the use of walking aids heavily determine the range of 4.0–7.0, and scores between 7.0 and 9.5 are largely determined by the ability to carry out ADL. Each step is defined by the functional system score.[2]</paragraph>
+  </section>
+  <section>
+    Evidence
+    <paragraph>Studies have found that the Expanded Disability Status Scale (EDSS) has good reliability and validity in multiple sclerosis (MS) patients.   It has been found that EDSS is strongly correlated to a  Turkish version of the self-reported disability status scale (SRDSS) which indicates good concurrent validity[4]. Another study have found showing good accuracy and weighted kappa when self-reported gait measure, the SRDSS, was developed and validated against clinical EDSS[5].Additionally, an algorithm was developed to derive EDSS scores from previous neurological clinical documentation, and it was found to have substantial agreement with formal EDSS scores and high inter-rater agreement[6].</paragraph>
+    <paragraph>The traditional scales such as EDSS scale are inadequate in measuring some key aspects of MS for example cognitive function and have psychometric limitations as well[7].Limitations in EDSS leads to development ofMultiple Sclerosis Functional Compositein the early 1990's, to improve clinical assessment of patients with multiple sclerosis[7][8].</paragraph>
+  </section>
+  <section>
+    Resources
+    <paragraph>Scale interpretation</paragraph>
+    <paragraph>EDSS calculator</paragraph>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑Expanded Disability Status Scale (EDSS)[Internet]. multiple sclerosis trust. 2020 [cited 2024 Feb 29].</item>
+      <item>↑van Munster, C. E., &amp; Uitdehaag, B. M. (2017).Outcome Measures in Clinical Trials for Multiple Sclerosis.CNS drugs,31(3), 217–236.</item>
+      <item>↑Dr. Brandon Beaber. Neurologist Explains EDSS for Multiple Sclerosis. Available from:https://www.youtube.com/watch?v=v9sFiM_lkJ4[last accessed 29/02/2024]</item>
+      <item>↑Ecem, Yeliz, Ayla Fil, Gülşah, Tuncer,  K Salcı, Balkan, Sütçü, Aslı.Reliability and validity of the incremental shuttle walk test in patients with fully ambulatory multiple sclerosis.Multiple sclerosis and related disorders [Internet]. 2023 Jan [cited 2024 Feb 29];70.</item>
+      <item>↑John Robert Ciotti Noah Sanders Amber Salter Joseph R. Berger Anne Haney Cross Salim Chahin.Clinical instruments to retrospectively capture levels of EDSS.Multiple sclerosis and related disorders [Internet]. 2019 Dec [cited 2024 Feb 29];39.</item>
+      <item>↑BİLEK, F., &amp; DEMİR, C. F. .Validity and Reliability of the Turkish Version of the Self-Reported Disability Status Scale in Persons with Multiple Sclerosis.Balıkesir Sağlık Bilimleri Dergisi, [Internet]. 2022 Jul [cited 2024 Feb 29];11(2):288–294.</item>
+      <item>↑7.07.1JS, RA, GR, SC. F Rudick, Cutter, Reingold.The Multiple Sclerosis Functional Composite measure (MSFC): an integrated approach to MS clinical outcome assessment.Multiple Sclerosis Journal [Internet]. 1999 [cited 2024 Mar 1];5(4):244–250.</item>
+      <item>↑Cutter GR, Baier ML, Rudick RA, Cookfair DL, Fischer JS, Petkau J, . [of a multiple sclerosis functional composite as a clinical trial outcome measure]. Brain [Internet]. 1999 [cited 2024 Mar 1];122(5):871–882.</item>
+    </list>
+    <paragraph>\</paragraph>
+  </section>
+</document>

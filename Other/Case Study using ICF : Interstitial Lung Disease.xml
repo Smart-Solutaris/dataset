@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Case Study using ICF : Interstitial Lung Disease</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Case_Study_using_ICF_:_Interstitial_Lung_Disease</url>
+  <parent_folder>Other</parent_folder>
+  <section>
+    Abstract
+    <paragraph>This article will cover a case study of Mr. J, who has been recently diagnosed withInterstitial Lung Disease (ILD). He has been recommended physiotherapy for the same. The article follows the journey of the physiotherapist assessing Mr. J usingICFformat.</paragraph>
+    <paragraph>Please note the below case study is imaginary but inspired from actual ILD patients. Therefore, it may not include all symptoms or signs of the disease condition. Do keep in mind that the patient assessment findings will vary slightly from patient to patient, changing the treatment protocol accordingly.</paragraph>
+  </section>
+  <section>
+    Client Characteristics
+    <paragraph>A 65-year-old male, Mr. J has complaints of progressivedyspneawith non-productive cough (intermittently) since 3-4 years. He is advised long term oxygen therapy (LTOT) but uses it only SOS. He lives on the first floor with his wife. His building has no lift. His Rate of Perceived Exertion is upto 2 (Modified Borg RPE Scale) on activities of moderate exertion. His HRCT shows ground glass appearance in basal region, along with honeycomb appearance and signet ring sign in middle and lower zones Bilaterally (B/L). He recently had an episode of dyspnea for which he required oxygen therapy but no hospital admission was done. Onauscultationhe presents with inspiratory crepitations, end expiratory crackles with wheezing sometimes and reduced breath sounds in the lower zone B/L. He is easily fatigued on housework (30 onfatigueassessment scale[1]) and is unable to stand for a long time. He used to work in a spice manufacturing unit for 25 years and later was a chef for many years before he retired. He would like to resume cooking again at least at home as he enjoys it.</paragraph>
+  </section>
+  <section>
+    Examination Findings
+    <paragraph>It consists of Mr.J's history(H/O), investigations and objective examination. This will primarily focus on respiratory assessment along with other systems.</paragraph>
+  </section>
+  <section>
+    History
+    <paragraph>Mr. J has a history of,</paragraph>
+  </section>
+  <section>
+    Investigations
+    <paragraph>This high resolution CT (HRCT) helps us understand the diagnosis of ILD, areas of lung involved[2]and is also an outcome measure post physiotherapy treatment.</paragraph>
+    <paragraph>Spirometryis the gold standard tool which can be used in the patients for diagnostic, prognostic and treatment monitoring.</paragraph>
+  </section>
+  <section>
+    Objective Examination
+    <paragraph>Mr. J was assessed in standing and sitting position. He was found to have,</paragraph>
+    <paragraph>Mr. J assessed in standing position had,</paragraph>
+  </section>
+  <section>
+    Six Minute Walk Test
+    <paragraph>In order to improve exercise capacity in Mr. J, we need to assess it using a sub-maximal exercise test such assix minute walk test.</paragraph>
+    <paragraph>The results after patient assessment were as follows,</paragraph>
+  </section>
+  <section>Summarizing Assessment using ICF</section>
+  <section>
+    Structural and Functional Impairments
+    <table>
+      <tr>
+        <th>Sr.No.</th>
+        <th>Structural &amp; Functional Impairement</th>
+        <th>Clinical Reasoning(due to)</th>
+        <th>Correlate on Examination</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Non productive Cough</td>
+        <td>Due to chronic airway irritation and  fibrosis</td>
+        <td>From H/O indicating chief complaints  and smoking for 7 years</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Ground glass appearance</td>
+        <td>Due to extensive fibrosis and  peripheral tissue damage</td>
+        <td>On HRCT</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Signet ring sign</td>
+        <td>Due to changes of bronchiectasis</td>
+        <td>On HRCT</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Honeycomb appearance</td>
+        <td>Destruction of alveoli and peripheral  airways</td>
+        <td>On HRCT</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Bronchial wall thickening</td>
+        <td>due to inflammation of airway and  presence of irritants</td>
+        <td>From H/O of smoking and from working in  spice factory</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Reduced chest expansion</td>
+        <td>due to lack of proper elastic recoil of  lung</td>
+        <td>On inspection and palpation</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Impaired percussion with reduced  resonance in lower zones B/L</td>
+        <td>Extensive tissue damage seen on HRCT</td>
+        <td>On palpation</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Diminished breath sounds with crepitation  present with wheezing</td>
+        <td>Due to bronchiectatic changes with airway  inflammation</td>
+        <td>On auscultation</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Tactile vocal resonance reduced</td>
+        <td>Due to peripheral tissue damage</td>
+        <td>On auscultation</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>Shoulder rounded forward neck posture</td>
+        <td>Due to reduced chest expansion and dyspnea on exertion</td>
+        <td>On inspection and H/O</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>RPE –2 on Mod. Borg scale</td>
+        <td>due to impaired gas exchange causing  chronic desaturation and sec. fatigue</td>
+        <td>From H/O</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Fatigue of 30 on fatigue assessment scale</td>
+        <td>Due to ventilation-perfusion mismatch  leading to chronic desaturation and secondary peripheral muscle weakness</td>
+        <td>From H/O</td>
+      </tr>
+      <tr>
+        <td>13.</td>
+        <td>Spirometery shows reduced FVC and increased FEV1/FVC ratio</td>
+        <td>Due to secondary fibrosis on chronic  respiratory involvement</td>
+        <td>From Spirometery testing</td>
+      </tr>
+      <tr>
+        <td>14.</td>
+        <td>Six minute walk distance is reduced with  a stop required</td>
+        <td>Due to dyspnea on exertion and peripheral muscle weakness secondary to chronic fatigue</td>
+        <td>From 6MWT</td>
+      </tr>
+      <tr>
+        <td>15.</td>
+        <td>Manual muscle testing shows reduced lower  limb strength</td>
+        <td>Due to impaired gas exchange causing  peripheral muscle weakness</td>
+        <td>On MMT testing</td>
+      </tr>
+    </table>
+    <paragraph>(due to)</paragraph>
+  </section>
+  <section>Activity Limitation</section>
+  <section>Participation Restriction</section>
+  <section>
+    Contextual Factors
+    <table>
+      <tr>
+        <th>Sr. No.</th>
+        <th>Barrier</th>
+        <th>Facilitator</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Lives  on 1stfloor and has no lift facility</td>
+        <td>Good  family support</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Stays  with wife, no one younger stays with them (eg. Children)</td>
+        <td>Has  access to physiotherapy home visit due to living in central location</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <th>Sr. No.</th>
+        <th>Barrier</th>
+        <th>Facilitator</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Has  issues about using LTOT</td>
+        <td>Has  quit smoking since four years</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Has  H/O of smoking for 7 years, thus major risk factor</td>
+        <td>Motivated  to start pulmonary rehabilitation program</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td/>
+        <td>Has  normal BMI</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td/>
+        <td>Has  good socioeconomic status, can afford regular PT treatment</td>
+      </tr>
+    </table>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑De Vries J, Michielsen H, Van Heck GL, Drent M. Measuring fatigue in sarcoidosis: the Fatigue Assessment Scale (FAS). British journal of health psychology. 2004 Sep;9(3):279-91.</item>
+      <item>↑Rabahi MF, Moreira MA, Escuissato DL, Meirelles GD, Marchiori E. Importance of chest HRCT in the diagnostic evaluation of fibrosing interstitial lung diseases. Jornal Brasileiro de Pneumologia. 2021 May 31;47.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8332714/</item>
+      <item>↑Boros PW, Franczuk M, Wesolowski S. Value of Spirometry in Detecting Volume Restriction in Interstitial Lung Disease PatientsSpirometry in Interstitial Lung Diseases. Respiration. 2004 Aug 1;71(4):374-9.</item>
+      <item>↑Ramanathan RP, Chandrasekaran B. Reference equations for 6-min walk test in healthy Indian subjects (25-80 years). Lung India: official organ of Indian Chest Society. 2014 Jan;31(1):35.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3960806/</item>
+      <item>↑Antoine M, Mlika M.Interstitial lung disease. Stat Pearls [Internet]. 2023 Jul 21.</item>
+    </list>
+  </section>
+</document>

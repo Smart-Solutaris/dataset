@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Case Study using ICF : COPD</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Case_Study_using_ICF_:_COPD</url>
+  <parent_folder>Other</parent_folder>
+  <section>
+    Abstract
+    <paragraph>This article will cover a case study of Mr.S, who has been recently diagnosed withCOPD. He has been recommended physiotherapy for the same. The article follows the journey of the physiotherapist assessing Mr.S usingICFformat.</paragraph>
+    <paragraph>Please note:  the below case study is imaginary but inspired by actual COPD patients. Therefore, it may not include all symptoms or signs of the disease condition. Remember that the assessment findings, in reality, will vary slightly from patient to patient, changing the treatment protocol accordingly.</paragraph>
+  </section>
+  <section>
+    Client Characteristics
+    <paragraph>A 40-year-old male, Mr.S, has had difficulty breathing on stair climbing to his office on 2ndfloor for almost a year. He complains of persistent cough with expectoration for the last 3-4 years, which increases every 2-3 months &amp; then goes away for some time. He had to be admitted for exacerbation of his symptoms &amp; was on medication with oxygen therapy for a week. He was diagnosed as suffering from COPD in the hospital. It has been two weeks since his discharge has come forpulmonary rehabilitationafter the recommendation of his pulmonologist. Mr.S works as a manager in the marketing department of his company. His job sometimes requires sitting in a meeting for hours together or travelling around the city on his two-wheeler for a full day. He was a smoker for eight years &amp; has quit on regular counselling and treatment for the last two years. He also complains of getting very tired till the end of the day &amp; does not want to go to any social event in the evening with family or friends. Mr. &amp; Mrs S stay on the 4thfloor with a lift in the building in an urban city in India. His wife &amp; college-going son have accompanied him for his first physiotherapy consultation.</paragraph>
+  </section>
+  <section>
+    Examination Findings
+    <paragraph>It consists of Mr.S's history, investigations and objective examination. This will primarily focus onrespiratory assessmentalong with other systems.</paragraph>
+  </section>
+  <section>
+    History
+    <paragraph>Mr.S has a history of</paragraph>
+  </section>
+  <section>
+    Investigations
+    <paragraph>Thisradiological investigationof the chest helps us understand the areas of lung involved and is also an outcome measure post physiotherapy treatment.</paragraph>
+    <paragraph>Spirometryis the gold standard tool which can be used in the patients for diagnostic, prognostic &amp; treatment montoring.</paragraph>
+  </section>
+  <section>
+    Objective Examination
+    <paragraph>Mr.S was assessed in standing and sitting positions. He was found to have</paragraph>
+    <paragraph>Mr.S assessed in standing position had,</paragraph>
+    <paragraph>In order to improve exercise capacity in Mr.S, we need to assess it using a sub-maximal exercise test such assix minute walk test.</paragraph>
+    <paragraph>The results after patient assessment were as follows,</paragraph>
+  </section>
+  <section>Summarizing Assessment using ICF</section>
+  <section>
+    Structural and Functional Impairments
+    <table>
+      <tr>
+        <th>Sr.No.</th>
+        <th>Structural &amp; Functional Impairement</th>
+        <th>Clinical Reasoning(due to)</th>
+        <th>Correlate on Examination</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Cough with expectoration</td>
+        <td>due to hyperplasia of goblet cells</td>
+        <td>from H/O indicating chief complaints &amp; smoking for 8 years</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Hyperinflation of lungs</td>
+        <td>due to abnormal &amp; permanent enlargement of airways in middle &amp; lower zone of lung</td>
+        <td>seen on X-ray,H/O indicating emphysema &amp; palpation</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Bronchial wall thickening</td>
+        <td>due to inflammation of airway &amp; presence of irritant</td>
+        <td>from H/O of smoking &amp; repeated bouts of chest infection</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>Increased bronchovascular markings</td>
+        <td>due to thickening of walls of airways</td>
+        <td>seen on X-ray</td>
+      </tr>
+      <tr>
+        <td>4.</td>
+        <td>Reduced chest expansion</td>
+        <td>due to lack of proper elastic recoil of lung</td>
+        <td>seen on inspection &amp; palpation</td>
+      </tr>
+      <tr>
+        <td>5.</td>
+        <td>Barrel shaped chest</td>
+        <td>due to hyperinflation of chest</td>
+        <td>seen on inspection, palpation &amp; X-ray</td>
+      </tr>
+      <tr>
+        <td>6.</td>
+        <td>Presence of bullae</td>
+        <td>due to extensive damage to lung tissue</td>
+        <td>seen on x-ray &amp; cough with expectoration H/O</td>
+      </tr>
+      <tr>
+        <td>7.</td>
+        <td>Abdominothoracic breathing pattern</td>
+        <td>due to hyperinflation of chest</td>
+        <td>seen on inspection</td>
+      </tr>
+      <tr>
+        <td>8.</td>
+        <td>Shoulder protracted with forward neck posture</td>
+        <td>due to use of accessory muscles &amp; increased work of breathing (WOB)</td>
+        <td>seen on inspection &amp; H/O</td>
+      </tr>
+      <tr>
+        <td>9.</td>
+        <td>Dyspnea Gr.3 on MMRC</td>
+        <td>due to airflow limitation &amp; reduced elastic recoil of lungs</td>
+        <td>seen on inspection &amp; H/O</td>
+      </tr>
+      <tr>
+        <td>10.</td>
+        <td>RPE –2 to 4 on Mod. Borg scale</td>
+        <td>due to increased WOB, abnormal breathing pattern &amp; hyperinflation of chest</td>
+        <td>seen on H/O</td>
+      </tr>
+      <tr>
+        <td>11.</td>
+        <td>Fatigue on the moderate activity of between METs 3-5.9</td>
+        <td>due to increased WOB dyspnea on exertion</td>
+        <td>seen on H/O</td>
+      </tr>
+      <tr>
+        <td>12.</td>
+        <td>Six minute walk distance is reduced</td>
+        <td>due to dyspnea on exertion &amp; peripheral muscle weakness secondary to chronic fatigue</td>
+        <td>seen on 6MWT</td>
+      </tr>
+    </table>
+    <paragraph>(due to)</paragraph>
+  </section>
+  <section>Activity Limitation</section>
+  <section>Participation Restriction</section>
+  <section>
+    Contextual Factors
+    <table>
+      <tr>
+        <th>Sr. No.</th>
+        <th>Barrier</th>
+        <th>Facilitator</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>Works on 2ndfloor</td>
+        <td>Good family support</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Travels to work on a two-wheeler</td>
+        <td>stays in a building with a lift</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td/>
+        <td>Has better access to physiotherapy set-up due to living in an urban city</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <th>Sr. No.</th>
+        <th>Barrier</th>
+        <th>Facilitator</th>
+      </tr>
+      <tr>
+        <td>1.</td>
+        <td>He is the primary earning member of the family</td>
+        <td>Quit smoking two years ago</td>
+      </tr>
+      <tr>
+        <td>2.</td>
+        <td>Has H/O of smoking for eight years, thus a major risk factor</td>
+        <td>Motivated to start a pulmonary rehabilitation program</td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>He is obese</td>
+        <td/>
+      </tr>
+    </table>
+  </section>
+  <section>
+    Management
+    <paragraph>So based on the  ICF summary of Mr. S, the physiotherapy treatment can be divided into short term &amp; long term goals.</paragraph>
+  </section>
+  <section>Short Term Goals</section>
+  <section>Long Term Goals</section>
+  <section>
+    References
+    <list>
+      <item>↑Vogelmeier CF, Criner GJ, Martinez FJ, Anzueto A, Barnes PJ, Bourbeau J, Celli BR, Chen R, Decramer M, Fabbri LM, Frith P. Global strategy for the diagnosis, management, and prevention of chronic obstructive lung disease 2017 report. GOLD executive summary. American journal of respiratory and critical care medicine. 2017 Mar 1;195(5):557-82.https://pubmed.ncbi.nlm.nih.gov/28128970/</item>
+      <item>↑Weir CB, Jan A. BMI classification percentile and cut off points.https://www.ncbi.nlm.nih.gov/books/NBK541070/(accessed on 22.11.2022)</item>
+      <item>↑Ramanathan RP, Chandrasekaran B. Reference equations for 6-min walk test in healthy Indian subjects (25-80 years). Lung India: official organ of Indian Chest Society. 2014 Jan;31(1):35.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3960806/</item>
+      <item>↑Agarwal AK, Raja A, Brown BD. Chronic obstructive pulmonary disease (COPD). StatPearls [Internet]. 2020 Jun 7.https://www.ncbi.nlm.nih.gov/books/NBK559281/(accessed 22.11.2022)</item>
+    </list>
+  </section>
+</document>

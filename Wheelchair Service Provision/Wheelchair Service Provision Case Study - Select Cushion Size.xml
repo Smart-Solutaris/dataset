@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Wheelchair Service Provision Case Study - Select Cushion Size</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Wheelchair_Service_Provision_Case_Study_-_Select_Cushion_Size</url>
+  <parent_folder>Wheelchair Service Provision</parent_folder>
+  <section>
+    Cushion Size
+    <table>
+      <tr>
+        <th/>
+        <th>Width</th>
+        <th>Depth</th>
+        <th>Height</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>Adult Wheelchair User - 360mm Seat Width</td>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Adult Wheelchair User - 460mm Seat Width</td>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Child Wheelchair User - 280mm</td>
+        <td/>
+        <td/>
+        <td/>
+      </tr>
+    </table>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑Sarah Frost, Kylie Mines, Jamie Noon, Elsje Scheffler, and Rebecca Jackson Stoeckle. Wheelchair Service Training Package - Reference Manual for Participants - Basic Level. World Health Organization, Geneva. 2012</item>
+    </list>
+  </section>
+</document>

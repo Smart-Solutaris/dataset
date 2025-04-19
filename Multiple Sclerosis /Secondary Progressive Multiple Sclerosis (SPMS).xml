@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Secondary Progressive Multiple Sclerosis (SPMS)</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Case_Study_-_Secondary_Progressive_Multiple_Sclerosis_(SPMS)</url>
+  <parent_folder>Multiple Sclerosis </parent_folder>
+  <section>
+    Introduction
+    <paragraph>Multiple Sclerosis(MS) is an autoimmune inflammatory disease that causes the demyelination of neurons in the Central Nervous System (CNS). It tends to develop in young adults, resulting in considerable deficits in sensory, motor, autonomic, and neurocognitive function (Sospedra). MS can be classified as either Relapsing-Remitting MS (RRMS), or Progressive MS. The latter could be categorized as Primary or Secondary, and further broken down into active or not active, with or without progression, as listed in the diagram below. Progressive MS affects 10-20% of patients, and several mechanisms have been proposed to explain its occurrence. One explanation is that inflammation causes degeneration of the brain, while other theories state that the inflammation and neurodegeneration occur independently (Lassman). However, the two are not mutually exclusive. In fact, 50% of those diagnosed with RRMS will transition to Progressive MS within 10 years, and 90% will transition within 25 years (CITE PLS). Progression is measured through clinical evaluation of the patient’s status and outcome measures, at least once a year. This can be done using the Nine Hole Peg Test (NHPT), Timed 25-Foot Walk (T25FW), and Paced Auditory Serial Addition (PASAT) which give a picture of physical and cognitive function.</paragraph>
+    <paragraph>This case study tracks the progress of Geraldine Smith, a 35-year-old woman diagnosed with Secondary Progressive Multiple Sclerosis (SPMS) in 2011. She initially reported symptoms of blurred vision, general weakness, and difficulty withbalanceto her family physician. The presence of low-level lesions and plaque formation in the cerebral white matter were noted through MRI imaging, and Evoked Potential testing was conducted to confirm the diagnosis as MS. The disease has been classified as active without progression for 10 years. Mrs. Smith was diagnosed withdepressionfive years ago andhypertension4 years ago. During her last visit to the neurologist, she noticed her symptoms were worsening. The MRI imaging confirmed her diagnosis had changed to SPMS active with progression. Her neurologist suggested she visit the Physical Therapy Clinic at Queen’s University to manage her symptoms and help her achieve some of her goals. She is easilyfatiguedduring her job as a sales rep even when working from home, where she lives with her husband and daughter.</paragraph>
+    <paragraph>Studies have researched the benefits of physical therapy management in patients with MS. Kalron et al. (2016) found that standardized physical therapy brings about a significant increase in gait speed and step length in patients at the end of an intervention program[1]. A similar approach could be taken with Mrs. Smith to improve her mobility functions and assist her in reaching her personal goals. The incorporation of a balance rehabilitation program proves to reduce the fall rate and improve balance skills in subjects with MS, with a statistically significant difference on the Berg Balance Scale[2]. This form of physical therapy would tackle one of Mrs. Smith’s greatest concerns by reducing her risk offalls.</paragraph>
+    <paragraph>The purpose of this fictional case study is to present evidence-based research on the effects of physiotherapy management as part of an inter-professional healthcare team on a patient with SPMS. Comparisons are drawn from the patient’s case to existing literature to describe the history of illness, findings from the examination, interventions, and the resultant outcomes.</paragraph>
+  </section>
+  <section>Client Characteristics</section>
+  <section>Examination Findings</section>
+  <section>Clinical Impression</section>
+  <section>Interventions</section>
+  <section>Outcome</section>
+  <section>Discussion</section>
+  <section>Self-study Questions</section>
+  <section>
+    References
+    <list>
+      <item>↑Kalron A, Fonkatz I, Frid L, Baransi H, Achiron A. The effect of balance training on postural control in people with multiple sclerosis using the CAREN virtual reality system: a pilot randomized controlled trial. J Neuroeng Rehabil. 2016 Mar 1;13:13. doi: 10.1186/s12984-016-0124-y. PMID: 26925955; PMCID: PMC4772661.</item>
+      <item>↑Cattaneo D, Jonsdottir J, Zocchi M, Regola A. Effects of balance exercises on people with multiple sclerosis: a pilot study. Clin Rehabil. 2007 Sep;21(9):771-81. doi: 10.1177/0269215507077602. PMID: 17875557.</item>
+    </list>
+  </section>
+</document>

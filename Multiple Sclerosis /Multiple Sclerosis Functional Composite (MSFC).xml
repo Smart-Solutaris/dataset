@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Multiple Sclerosis Functional Composite (MSFC)</title>
+  <source>nan extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Multiple_Sclerosis_Functional_Composite_(MSFC)</url>
+  <parent_folder>Multiple Sclerosis </parent_folder>
+  <section>
+    Purpose
+    <paragraph>The Multiple Sclerosis Functional Composite (MSFC) was designed by "The National MS Society's Clinical Outcome Assessment Task" and is a standardized tool used to quantify the degree of disability in patients withmultiple sclerosis(MS)[1]. Limitations inExpanded Disability Status Scaleleads to the development of MSFC in the early 1990s, to improve the clinical assessment of patients with multiple sclerosis[2][3]. The traditional scales such as the EDSS scale are inadequate in measuring some key aspects of MS for example cognitive function and have psychometric limitations as well[1].</paragraph>
+    <paragraph>[4]</paragraph>
+  </section>
+  <section>
+    Technique
+    <paragraph>MSFC covers three functional domains[3]:</paragraph>
+    <list>
+      <item>Ambulatory Function</item>
+      <item>Hand Function</item>
+      <item>Cognitive function</item>
+    </list>
+    <paragraph>Performed within 20 minutes.</paragraph>
+    <table>
+      <tr>
+        <td>Nine-Hole Peg Test</td>
+        <td>It is a quantitative measure of hand function and is tested with the nine-hole peg test[3]. The patient is instructed to arrange pegs into nine holes in a board by both dominant and non-dominant hands in two consecutive trials for each hand. The amount of time (in seconds) required to place and remove all nine pegs is recorded for each trial[5].</td>
+      </tr>
+      <tr>
+        <td>Timed 25-foot walk test (T25W)</td>
+        <td>The timed 25-foot walk test (T25W) is a quantitative measure of ambulation.  The T25W is a reliable test for patients with more severe gait impairment because it primarily assesses walking speed[3]. The patient is instructed to walk a distance of 25 feet as quickly as possible. Both ends are marked with prominent signs. Note, if the patient requires his/her assistive device while walking. As the patient completes trail 1 he/she is instructed to walk back to the starting point (Trial 2). The time will be recorded in seconds in both trials. Time limit = 180 seconds (3 minutes). Discontinued =  Patient is unable to complete a trial in 3 minutes or completes the first trial but cannot complete trial 2 after a 5-minute rest period[5].</td>
+      </tr>
+      <tr>
+        <td>(PASAT)Paced auditory serial addition task</td>
+        <td>PASAT  was originally included to cover the cognitive domain. It measures processing speed and working memory(concentration, speed of auditory, information processing, flexibility and calculation) in MS patients[3]. A total of sixty single-digit numbers are presented by an audiotape at a constant rate every 3 seconds. The patient is instructed to add each new number to the one immediately before it.The patient is allowed up to three practice trials, two of the correct answers on any three trials are sufficient to proceed with the original test. Two sets of numbers have been designed to be used alternatively in every visit to minimize memorizing. The test score (out of 60)is the number of correct sums given[5].</td>
+      </tr>
+    </table>
+    <paragraph>The patient is allowed up to three practice trials, two of the correct answers on any three trials are sufficient to proceed with the original test. Two sets of numbers have been designed to be used alternatively in every visit to minimize memorizing. The test score (out of 60)is the number of correct sums given[5].</paragraph>
+    <paragraph>The results of the tests are depicted in an interval scale (seconds or number of correct responses) and can be converted to aZscore that is based on values of a reference population. An overall score can be calculated by averaging theZscore of the subtests[3].</paragraph>
+  </section>
+  <section>
+    Evidence
+    <paragraph>It has good intra- and inter-rater reliability and it results in a score on a continuous scale[3].</paragraph>
+    <paragraph>Excellenttest-retest reliability (ICC = 0.96)[6]</paragraph>
+  </section>
+  <section>
+    Resources
+    <paragraph>Guidebook</paragraph>
+    <paragraph>Scoring guideline</paragraph>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑1.01.1JS, RA, GR, SC. F Rudick, Cutter, Reingold.The Multiple Sclerosis Functional Composite measure (MSFC): an integrated approach to MS clinical outcome assessment.Multiple Sclerosis Journal [Internet]. 1999 [cited 2024 Mar 1];5(4):244–250.</item>
+      <item>↑Cutter GR, Baier ML, Rudick RA, Cookfair DL, Fischer JS, Petkau J, .Development of a multiple sclerosis functional composite as a clinical trial outcome measure. Brain [Internet]. 1999 [cited 2024 Mar 1];122(5):871–882.</item>
+      <item>↑3.03.13.23.33.43.53.6Van Munster, C. E., &amp; Uitdehaag, B. M.Outcome Measures in Clinical Trials for Multiple Sclerosis.CNS drugs. 2017;31(3):217–236.</item>
+      <item>↑Dr. Brandon Beaber. Multiple Sclerosis Functional Composite Should Replace EDSS. Available from:https://www.youtube.com/watch?app=desktop&amp;v=ZwWaBFUDfm4</item>
+      <item>↑5.05.15.25.3Tiftikçioğlu B. İ.Multiple Sclerosis Functional Composite (MSFC): Scoring Instructions.55(Suppl 1), S46–S48. https://doi.org/10.29399/npa.23330. Noro psikiyatri arsivi. 2014;55(1):46–48.</item>
+      <item>↑Cohen, J. A., Fischer, J. S., et al. .“Intrarater and interrater reliability of the MS functional composite outcome measure.”54(4): 802-806. Neurology [Internet]. 1994;54(4):802–806. Available from: https://pubmed.ncbi.nlm.nih.gov/10690966/</item>
+    </list>
+  </section>
+</document>

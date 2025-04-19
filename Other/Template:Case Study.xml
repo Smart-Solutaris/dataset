@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Template:Case Study</title>
+  <source>Case Study extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Template:Case_Study</url>
+  <parent_folder>Other</parent_folder>
+  <section>Abstract</section>
+  <section>Client Characteristics</section>
+  <section>Examination Findings</section>
+  <section>Clinical Hypothesis</section>
+  <section>Intervention</section>
+  <section>Outcome</section>
+  <section>Discussion</section>
+  <section>References</section>
+</document>

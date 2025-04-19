@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<document>
+  <title>Cerebral Oedema</title>
+  <source>nan extracted from Physiopedia</source>
+  <url>https://www.physio-pedia.com/Cerebral_Oedema</url>
+  <parent_folder>Neurological </parent_folder>
+  <section>
+    Introduction
+    <paragraph>Cerebral Oedema is a serious condition characterised by the abnormal accumulation of fluid in the brain tissue, leading to increased pressure within the skull and impaired brain function. It can occur as a result of various neurological and systemic conditions, such astraumatic brain injury,stroke,brain tumours, infections, and metabolic imbalances.</paragraph>
+    <paragraph>The brain swelling associated with cerebral oedema can compromise normal blood flow, resulting in secondary damage due to reduced blood supply to the brain tissue. In severe cases, it can lead to brain herniation, which can be fatal if not treated promptly.</paragraph>
+    <paragraph>The Monroe-Kellie doctrine provides a fundamental explanation of the pathophysiology of cerebral oedema. It states that the total volume of brain tissue ( approximately 1400 ml ), cerebrospinal fluid (CSF - approximately 150 ml ), and blood within the skull  (approximately 150 ml ) must remain constant. An increase in one component, such as brain tissue swelling, requires a compensatory decrease in the others. When these compensatory mechanisms are overwhelmed, increased intracranial pressure can compress the brain structures, leading to widespread damage and potentially irreversible brain injury.</paragraph>
+    <paragraph>Cerebral oedema can present with a wide range of symptoms, from subtle cognitive changes to life-threatening conditions such as coma and dysfunction of the brainstem. Early recognition and timely intervention are crucial in preventing severe complications associated with this condition.</paragraph>
+  </section>
+  <section>
+    Clinically Relevant Anatomy
+    <paragraph>seeBrain Anatomyfor a comprehensive coverage of the Anatomy.</paragraph>
+  </section>
+  <section>
+    Classification of Cerebral Oedema
+    <paragraph>Cerebral oedema is classified intofour distinct typesbased on the underlying pathophysiological mechanisms:</paragraph>
+  </section>
+  <section>
+    Aetiology
+    <paragraph>Cerebral oedema can arise from a wide range of neurological and systemic conditions. These underlying causes can be broadly categorized into primary neurological and secondary systemic aetiologies, each leading to specific types of oedema (vasogenic, cytotoxic, osmotic, or interstitial). Understanding these causes is crucial for early diagnosis and targeted treatment.[2]</paragraph>
+    <paragraph/>
+  </section>
+  <section>
+    Risk Factors
+    <paragraph>Several risk factors[1]predispose individuals to the development of cerebral oedema, including:</paragraph>
+    <list>
+      <item>Head Trauma: Individuals involved in contact sports, accidents, or falls are at increased risk of traumatic brain injury, a leading cause of cerebral oedema.</item>
+      <item>Vascular Disorders: Patients with cardiovascular risk factors, includinghypertension,diabetes mellitus, andatherosclerosis, are at increased risk ofstroke, which can lead to cerebral oedema.</item>
+      <item>Metabolic Disorders: Conditions such as diabetes, chronic kidney disease, andliver failureincrease the risk of metabolic disturbances that can precipitate cerebral oedema (e.g., hyponatraemia, hepatic encephalopathy, diabetic ketoacidosis).</item>
+      <item>Altitude Exposure: Rapid ascent to high altitudes, particularly above 2500 meters, increases the risk of high-altitude cerebral oedema (HACE).</item>
+      <item>Cerebral Neoplasms: Individuals with brain tumours are predisposed to the development of vasogenic oedema due to increased vascular permeability around the tumour.</item>
+      <item>Infections: Conditions such as bacterialmeningitis,encephalitis, andsepsiscan cause inflammation and oedema within the brain.</item>
+    </list>
+  </section>
+  <section>
+    Pathophysiology
+    <paragraph>Cerebral oedema results from an imbalance between the production and clearance of fluid in the brain’s intracellular or extracellular compartments. The swelling causes an increase in intracranial pressure (ICP), which, according to the Monroe-Kellie doctrine, compromises cerebral perfusion and oxygen delivery, potentially leading to ischaemia and secondary neuronal injury. The development of cerebral oedema involves complex interactions between fluid dynamics, cellular homeostasis, vascular permeability, and metabolic disturbances.[2]</paragraph>
+    <paragraph>Understanding the pathophysiology of cerebral oedema is essential for guiding clinical management, including the use of therapeutic interventions such as osmotherapy, glucocorticoids, and surgical decompression, which aim to restore fluid balance, protect neuronal tissue, and reduce ICP. Subsequently, the correct understanding of pathophysiology, medical and surgical intervention is very critical to develop a rehabilitation protocol.[2]</paragraph>
+    <paragraph>The pathophysiological mechanisms behind the Cerebral oedema are four major types : vasogenic, cytotoxic, osmotic, and interstitial oedema.[1]</paragraph>
+  </section>
+  <section>
+    1. Vasogenic Oedema
+    <paragraph>Vasogenic oedema is the result of a breakdown in the blood-brain barrier (BBB), a critical structure that regulates the exchange of substances between the brain's vascular system and its surrounding tissue. Under normal circumstances, the BBB maintains brain homeostasis by preventing the free passage of proteins, ions, and water into the extracellular brain space. However, in certain pathological conditions, the BBB becomes compromised, allowing plasma proteins and other solutes to leak from the bloodstream into the brain’s interstitial spaces.</paragraph>
+    <list>
+      <item>Disruption of the BBB: The structural integrity of the endothelial cells lining cerebral capillaries is lost, particularly due to the effects of inflammatory cytokines (e.g., TNF-α, IL-1β), growth factors (such as vascular endothelial growth factor (VEGF)), and mechanical insults (e.g., trauma).</item>
+      <item>Increased Vascular Permeability: The loss of tight junctions between endothelial cells allows plasma constituents, especially proteins like albumin, to leak into the extracellular space.</item>
+      <item>Osmotic Gradient Formation: Proteins in the extracellular space create an osmotic gradient, drawing water from the vasculature into the brain tissue, leading to swelling.</item>
+      <item>White Matter Involvement: Vasogenic oedema primarily affects the white matter because this region offers less resistance to the flow of fluid compared to the denser gray matter.</item>
+    </list>
+    <paragraph>The increased fluid in the extracellular space compresses neurons and glial cells, disrupts neuronal signalling, and contributes to further damage by reducing blood flow and oxygenation to adjacent tissues. This process also leads to increased intracranial pressure, which compromises cerebral perfusion, resulting in a vicious cycle of injury.</paragraph>
+  </section>
+  <section>
+    2. Cytotoxic Oedema
+    <paragraph>Cytotoxic oedema refers to the swelling of brain cells, primarily astrocytes, neurons, and endothelial cells, due to energy failure and loss of cellular ionic balance. Unlike vasogenic oedema, where fluid accumulates in the extracellular space, cytotoxic oedema involves intracellular swelling caused by the dysfunction of ATP-dependent ion pumps, specifically the Na+/K+ ATPase pump.</paragraph>
+    <list>
+      <item>Energy Depletion: In conditions such as ischaemic stroke or hypoxia, cells experience a depletion of ATP due to a lack of oxygen and glucose. Without ATP, energy-dependent ion pumps cease functioning.</item>
+      <item>Ionic Imbalance: The failure of the Na+/K+ ATPase pump causes an intracellular accumulation of sodium ions, which are followed by chloride ions (Cl⁻) to maintain electrochemical neutrality. This ionic influx creates an osmotic gradient.</item>
+      <item>Water Influx: Water moves into the cells to balance the osmotic gradient, leading to cellular swelling.</item>
+      <item>Gray Matter Involvement: Unlike vasogenic oedema, cytotoxic oedema predominantly affects the gray matter due to its high metabolic demand and greater density of neurons and glial cells.</item>
+    </list>
+    <paragraph>Cytotoxic oedema develops within minutes to hours of the initial insult and contributes to cell death by disrupting normal cellular function, leading to cytotoxicity, neuronal apoptosis, and necrosis. This type of oedema can result in widespread neuronal damage, particularly in stroke patients, where rapid intervention is critical to minimize long-term deficits.</paragraph>
+  </section>
+  <section>
+    3. Osmotic Oedema
+    <paragraph>Osmotic oedema occurs when there is an imbalance in osmolarity between the brain cells and the extracellular fluid. This typically happens when systemic osmolarity is reduced (e.g., in hyponatraemia) or when cellular osmolarity increases (e.g., in diabetic ketoacidosis), causing water to move into the brain cells. This influx of water leads to cellular swelling across the brain.</paragraph>
+    <list>
+      <item>Systemic Osmolar Imbalance: In metabolic conditions such as hyponatraemia or hyperglycaemia, plasma osmolarity decreases or intracellular osmolarity increases.</item>
+      <item>Osmotic Gradient: A gradient develops between the plasma and the intracellular compartment of brain cells.</item>
+      <item>Water Shift: To balance the osmotic gradient, water moves into brain cells, resulting in generalized swelling across both gray and white matter.</item>
+    </list>
+    <paragraph>Osmotic oedema can lead to rapid and diffuse brain swelling, which increases intracranial pressure. It is especially dangerous in conditions like DKA, where cerebral oedema can lead to coma or death if not promptly treated.</paragraph>
+  </section>
+  <section>
+    4. Interstitial Oedema
+    <paragraph>Interstitial oedema develops when cerebrospinal fluid (CSF) leaks from the ventricles into the surrounding brain tissue, particularly in cases of hydrocephalus or meningitis. This results in an accumulation of fluid in the brain's extracellular space, particularly in the periventricular white matter.</paragraph>
+    <list>
+      <item>Increased Intraventricular Pressure: Obstruction of CSF flow, such as in non-communicating hydrocephalus, leads to an elevation in intraventricular pressure.</item>
+      <item>CSF Leakage: The elevated pressure forces CSF to pass through the ependymal lining of the ventricles into the brain’s interstitial spaces.</item>
+      <item>White Matter Involvement: Fluid accumulates predominantly in the white matter, leading to interstitial oedema.</item>
+    </list>
+    <paragraph>Interstitial oedema contributes to ventricular enlargement and white matter compression, potentially leading to neurological deficits such as motor dysfunction, gait instability, and cognitive impairment. If untreated, increased pressure may cause brain herniation.</paragraph>
+    <paragraph>Across all types of cerebral oedema, the consequences of increased brain volume are largely the same—rising intracranial pressure, reduced cerebral perfusion pressure (CPP), and compromised oxygen and nutrient delivery to brain tissue. Left untreated, cerebral oedema progresses to herniation syndromes, where parts of the brain are displaced across rigid structures (e.g., the tentorium or foramen magnum), leading to brainstem compression, respiratory arrest, and death. The type of oedema and the underlying cause determine the rate of progression and the potential reversibility of brain damage.[1]</paragraph>
+  </section>
+  <section>
+    Clinical Presentation of Cerebral Oedema
+    <paragraph>The clinical presentation of cerebral oedema is highly variable, depending on the underlying cause, location, extent of the swelling, and the rapidity with which the oedema develops. Symptoms arise as increased intracranial pressure (ICP) affects brain function, causing focal neurological deficits, global cognitive impairment, or signs of autonomic dysregulation. In severe cases, cerebral oedema can progress to coma, herniation, and death if not treated promptly.[3][4]</paragraph>
+    <paragraph>Regardless of the underlying cause, increased ICP is a common feature of cerebral oedema, manifesting as a constellation of signs and symptoms. Key symptoms include:[5]</paragraph>
+    <list>
+      <item>Headache:A common early symptom, usually generalized, worsening with coughing, sneezing, or lying down (due to the increase in ICP). It may be throbbing and constant, and often more severe in the mornings.</item>
+      <item>A common early symptom, usually generalized, worsening with coughing, sneezing, or lying down (due to the increase in ICP). It may be throbbing and constant, and often more severe in the mornings.</item>
+      <item>Nausea and Vomiting:Associated with raised ICP, vomiting is often described as projectile and can occur without preceding nausea. This symptom is more common when pressure is rapidly rising, as seen in acute conditions like trauma or stroke.</item>
+      <item>Associated with raised ICP, vomiting is often described as projectile and can occur without preceding nausea. This symptom is more common when pressure is rapidly rising, as seen in acute conditions like trauma or stroke.</item>
+      <item>Altered Mental Status:As ICP increases, patients may experience cognitive impairment, confusion, drowsiness, or even agitation. In more severe cases, patients may develop lethargy, obtundation, and eventually coma. Cognitive slowing and difficulty concentrating are often early signs in slower-developing conditions, such as tumors or hydrocephalus.</item>
+      <item>As ICP increases, patients may experience cognitive impairment, confusion, drowsiness, or even agitation. In more severe cases, patients may develop lethargy, obtundation, and eventually coma. Cognitive slowing and difficulty concentrating are often early signs in slower-developing conditions, such as tumors or hydrocephalus.</item>
+      <item>Seizures:Seizures can occur in patients with significant cerebral edema, particularly if the underlying cause is trauma, hemorrhage, or tumor. Seizures may be focal or generalized, and status epilepticus can develop in some cases.</item>
+      <item>Seizures can occur in patients with significant cerebral edema, particularly if the underlying cause is trauma, hemorrhage, or tumor. Seizures may be focal or generalized, and status epilepticus can develop in some cases.</item>
+      <item>Visual Disturbances:Patients may experience blurred vision, diplopia (double vision), or visual field deficits due to compression of the optic nerves or cranial nerves involved in eye movement (particularly cranial nerve VI). Papilledema, or swelling of the optic disc, is a hallmark sign of increased ICP and may be identified on fundoscopic examination.</item>
+      <item>Patients may experience blurred vision, diplopia (double vision), or visual field deficits due to compression of the optic nerves or cranial nerves involved in eye movement (particularly cranial nerve VI). Papilledema, or swelling of the optic disc, is a hallmark sign of increased ICP and may be identified on fundoscopic examination.</item>
+      <item>Cushing's Triad(Late Sign of Increased ICP):This is a sign of impending brain herniation and includes:Hypertension: Widened pulse pressure (increased systolic pressure with normal or reduced diastolic pressure).Bradycardia: A slowing heart rate due to increased pressure on the brainstem.Irregular Respirations: Abnormal respiratory patterns, such as Cheyne-Stokes respiration, indicating brainstem dysfunction.</item>
+      <item>This is a sign of impending brain herniation and includes:Hypertension: Widened pulse pressure (increased systolic pressure with normal or reduced diastolic pressure).Bradycardia: A slowing heart rate due to increased pressure on the brainstem.Irregular Respirations: Abnormal respiratory patterns, such as Cheyne-Stokes respiration, indicating brainstem dysfunction.</item>
+      <item>Hypertension: Widened pulse pressure (increased systolic pressure with normal or reduced diastolic pressure).</item>
+      <item>Bradycardia: A slowing heart rate due to increased pressure on the brainstem.</item>
+      <item>Irregular Respirations: Abnormal respiratory patterns, such as Cheyne-Stokes respiration, indicating brainstem dysfunction.</item>
+    </list>
+    <paragraph>If cerebral edema is left untreated, it can lead to herniation syndromes, where portions of the brain are displaced across fixed structures in the skull, resulting in life-threatening complications. Key herniation syndromes include:</paragraph>
+    <list>
+      <item>Uncal Herniation: The uncus of the temporal lobe is displaced downward, compressing the midbrain.Symptoms include ipsilateral pupillary dilation, contralateral motor weakness, and a decreased level of consciousness.</item>
+      <item>Symptoms include ipsilateral pupillary dilation, contralateral motor weakness, and a decreased level of consciousness.</item>
+      <item>Tonsillar Herniation: The cerebellar tonsils are pushed downward through the foramen magnum, compressing the brainstem.Symptoms include respiratory arrest, bradycardia, hypertension, and coma, often leading to death if untreated.</item>
+      <item>Symptoms include respiratory arrest, bradycardia, hypertension, and coma, often leading to death if untreated.</item>
+      <item>Subfalcine Herniation: The cingulate gyrus herniates under the falx cerebri, leading to compression of the anterior cerebral artery, which can cause leg weakness.</item>
+    </list>
+  </section>
+  <section>
+    Diagnosis &amp; Evaluation
+    <paragraph>The diagnosis of cerebral edema requires a comprehensive approach, combining clinical assessment with imaging studies and sometimes invasive monitoring. Early detection is crucial to prevent the devastating consequences of increased intracranial pressure (ICP) and brain herniation. Clinicians must differentiate cerebral edema from other causes of altered mental status and neurological deficits to guide timely and appropriate management.</paragraph>
+    <paragraph>The initial step in evaluating cerebral edema is a thorough neurological examination and assessment of intracranial pressure. Key aspects of the clinical assessment include:[6]</paragraph>
+    <paragraph>Imaging is critical in diagnosing cerebral edema and identifying its underlying cause. The most commonly used imaging modalities include:</paragraph>
+    <image src="https://www.physio-pedia.com/images/thumb/e/e3/Mca-stroke-evolution.jpg/300px-Mca-stroke-evolution.jpg"/>
+    <image src="https://www.physio-pedia.com/images/thumb/e/e1/Brain-metastases-from-breast-cancer.jpg/300px-Brain-metastases-from-breast-cancer.jpg"/>
+    <paragraph>For patients with severe cerebral edema or those at risk of impending herniation, direct monitoring of intracranial pressure may be necessary, especially in the intensive care unit (ICU). This is typically indicated in cases of traumatic brain injury (TBI), massive stroke, or in patients who have deteriorating mental status without a clear cause.[6]</paragraph>
+    <paragraph>Laboratory tests are essential to identify metabolic derangements or systemic causes contributing to cerebral edema. Common tests include:[6]</paragraph>
+  </section>
+  <section>
+    Differential Diagnosis
+    <paragraph>When assessing cerebral edema, clinicians must distinguish it from other causes of neurological decline, as many conditions can present with similar symptoms of increased intracranial pressure, altered mental status, and neurological deficits. The following are key conditions to consider in the differential diagnosis:[6]</paragraph>
+  </section>
+  <section>
+    Treatment
+    <paragraph>The management of cerebral oedema involves two primary goals: reducing intracranial pressure (ICP) and treating the underlying cause of the oedema. The treatment strategies are tailored to prevent further brain injury, reverse or halt the oedema, and prevent life-threatening complications such as brain herniation. The choice of treatment depends on the type of oedema (vasogenic, cytotoxic, osmotic, or interstitial), the cause, and the severity of the patient's condition.[1]</paragraph>
+    <paragraph>Osmotherapy is one of the mainstays of treatment for cerebral oedema, aimed at reducing brain swelling by drawing fluid out of the brain tissue into the bloodstream.</paragraph>
+    <paragraph>Corticosteroids, particularly dexamethasone, are effective in treating vasogenic oedema, especially when caused by brain tumours or abscesses. They stabilize the blood-brain barrier (BBB) by reducing inflammation and limiting fluid leakage into the extracellular space.</paragraph>
+    <paragraph>Sedation reduces cerebral metabolic demand, thereby decreasing ICP. Barbiturate coma can be induced in cases of refractory ICP, although it is typically reserved for severe cases.</paragraph>
+    <paragraph>Seizures are common in patients with cerebral oedema, especially those with tumours, trauma, or haemorrhages. Prophylactic anticonvulsants such as phenytoin or levetiracetam may be used in patients at risk of seizures.</paragraph>
+    <paragraph>Decompressive craniectomy is a life-saving procedure used in patients with severe or refractory cerebral oedema. In this procedure, a portion of the skull is removed to allow the swollen brain tissue to expand without causing compression of critical structures.</paragraph>
+    <paragraph>In cases of hydrocephalus or interstitial oedema, drainage of cerebrospinal fluid (CSF) via a ventriculostomy can rapidly reduce ICP and relieve symptoms of cerebral oedema.</paragraph>
+    <paragraph>For patients with vasogenic oedema due to brain tumours, surgical resection of the tumour is necessary to remove the source of the oedema.</paragraph>
+    <paragraph>Other supportive measures are essential for managing patients with cerebral oedema and preventing secondary complications:</paragraph>
+  </section>
+  <section>
+    Role of Physiotherapy
+    <paragraph>The management of cerebral oedema often requires a multidisciplinary approach, with physiotherapy playing a crucial role in the rehabilitation process.</paragraph>
+  </section>
+  <section>
+    Objectives of Physiotherapy in Cerebral Oedema
+    <list>
+      <item>Enhancing Mobility: Improve functional independence and mobility in patients.</item>
+      <item>Reducing Complications: Prevent complications such as muscle atrophy, contractures, and pressure sores.</item>
+      <item>Improving Neuromuscular Function: Facilitate neuromuscular re-education for better coordination, strength, and balance.</item>
+      <item>Promoting Circulation: Use positioning and gentle mobilization to enhance circulation.</item>
+      <item>Supporting Respiratory Function: Optimize respiratory mechanics and function.</item>
+    </list>
+  </section>
+  <section>
+    Assessment and Individualized Treatment Planning
+    <paragraph>A comprehensive assessment is critical in developing an effective physiotherapy plan. Key components include:</paragraph>
+    <paragraph>Treatment goals should be individualized based on the patient's condition, level of function, and personal aspirations. Common goals may include:</paragraph>
+  </section>
+  <section>
+    Physiotherapy Interventions
+    <paragraph>For patients with mobility impairments,gait trainingmay involve:</paragraph>
+    <paragraph>For patients experiencing balance disturbances due to vestibular involvement:[9]</paragraph>
+    <paragraph>This involves:</paragraph>
+    <paragraph>Initiating mobilization as early as possible is crucial:[10]</paragraph>
+    <paragraph>Properpositioningis essential to minimize the risk of pressure sores and enhance comfort:</paragraph>
+    <paragraph>To address potential respiratory complications[11]:</paragraph>
+    <paragraph>Educating patients and their families about the condition, management strategies, and the importance of rehabilitation is vital for optimal recovery. Involving family members in therapy sessions can enhance support and motivation.</paragraph>
+  </section>
+  <section>
+    Monitoring Progress
+    <paragraph>Regular reassessment is essential to evaluate progress and adjust treatment plans accordingly. Physiotherapists should continuously monitor the patient’s response to interventions, looking for improvements in mobility, strength, and overall functional ability.</paragraph>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑1.01.11.21.31.41.51.6Jha SK.Cerebral edema and its management. Medical Journal Armed Forces India. 2003 Oct 1;59(4):326-31.</item>
+      <item>↑2.02.12.22.3Yang Y, Rosenberg GA.Blood–brain barrier breakdown in acute and chronic cerebrovascular disease. Stroke. 2011 Nov;42(11):3323-8.</item>
+      <item>↑Jha SK. Cerebral edema and its management. Medical Journal Armed Forces India. 2003 Oct 1;59(4):326-31.
+
+BibTeXEndNoteRefManRefWorks</item>
+      <item>↑Yang Y, Rosenberg GA. Blood-brain barrier breakdown in acute and chronic cerebrovascular disease. Stroke. 2011;42(11):3323-8.</item>
+      <item>↑Lane PL, Skoretz TG, Doig G, Girotti MJ. Intracranial pressure monitoring and outcomes after traumatic brain injury. Canadian Journal of Surgery. 2000 Dec;43(6):442.</item>
+      <item>↑6.06.16.26.3Nehring SM, Tadi P, Tenny S, editors. Cerebral Edema. StatPearls [Internet]. 2023 Jul 3 [cited 2024 Nov 11]. Available from:https://www.statpearls.com/point-of-care/19182#History%20and%20Physical</item>
+      <item>↑7.07.1RadiopaediaCerebral edemaLast revised by Ryan Thibodeau on 10 Jul 2024</item>
+      <item>↑Huang, M. C., &amp; Wong, H. H. (2019). Early mobilization and its effects on brain edema in stroke patients: A systematic review. Journal of Stroke and Cerebrovascular Diseases, 28(3), 654-661.</item>
+      <item>↑Hall CD, Herdman SJ, Whitney SL, Anson ER, Carender WJ, Hoppes CW, Cass SP, Christy JB, Cohen HS, Fife TD, Furman JM. Vestibular rehabilitation for peripheral vestibular hypofunction: an updated clinical practice guideline from the academy of neurologic physical therapy of the American Physical Therapy Association. Journal of neurologic physical therapy. 2022 Apr 1;46(2):118-77.
+
+BibTeXEndNoteRefManRefWorks</item>
+      <item>↑Rocca A, Pignat JM, Berney L, Jöhr J, Van de Ville D, Daniel RT, Levivier M, Hirt L, Luft AR, Grouzmann E, Diserens K. Sympathetic activity and early mobilization in patients in intensive and intermediate care with severe brain injuries: a preliminary prospective randomized study. BMC neurology. 2016 Dec;16:1-9.
+
+BibTeXEndNoteRefManRefWorks</item>
+      <item>↑Selsby DS. Chest physiotherapy. BMJ: British Medical Journal. 1989 Mar 3;298(6673):541.
+
+BibTeXEndNoteRefManRefWorks</item>
+    </list>
+  </section>
+</document>
