@@ -4,10 +4,14 @@
   <source> A case study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Trigeminal_neuralgia:_A_case_study</url>
   <parent_folder>Neurological </parent_folder>
+  <section>Trigeminal neuralgia: A case study</section>
   <section>
     Abstract
     <paragraph>A fictitious case study for a 35-year-old female recently diagnosed with Classical Trigeminal Neuralgia (CTN) referred to physiotherapy for conservative symptom management. The purpose of this case study is to highlight the role a physiotherapist can play as a member of a multidisciplinary team to assist with symptom modulation of this debilitating disorder. The case study will provide the reader with information regarding the typical presentation of Trigeminal Neuralgia (TN) as well as assessment tools and intervention strategies that can be implemented.</paragraph>
     <paragraph>The patient presented with symptoms corresponding with the diagnosis of CTN including abnormal results during sensation testing as well as tenderness on palpation and muscle spasms found in the cervical musculature. Outcome measures indicated severe pain with moderate irritability as well as impaired quality of life. Patient also reported having anxiety which was exacerbated due to the CTN diagnosis. Treatment focused on massage therapy, transcutaneous electrical stimulation (TENS), ultrasound, and self-management techniques. As the patient progressed in her treatment, the other roles of the multidisciplinary team became integral in providing optimal care. Conservative care assisted in decreasing tension and muscle spasms; however, the trajectory of this case indicates that the patient will require surgery due to minimal CTN symptom modulation.</paragraph>
+  </section>
+  <section>
+    Introduction
     <image src="https://www.physio-pedia.com/images/thumb/2/21/Trigeminal_nerve_distribution.png/450px-Trigeminal_nerve_distribution.png"/>
     <paragraph>Trigeminal Neuralgia (TN) is a unilateral facial pain disorder that involves dysfunction of the 5th cranial nerve (CN V)[2]. The two types of TN are classical and secondary which have different pathologies. Typically, classical trigeminal neuralgia (CTN) is caused by a compression of the nerve by a blood vessel or morphological changes to a blood vessel which overtime causes degeneration of the protective myelin sheath[3]. Secondary trigeminal neuralgia (STN) arises as a complication of multiple sclerosis, a tumor in the area, or arteriovenous malformation[3]. Additionally it can be brought on by physical damage to the nerve from factors like stroke, oral surgery or other facial trauma. The trigeminal nerve exits the brainstem from the pons and branches out into 3 sections that supply the upper, middle and lower portions of the face. The upper most branch, the ophthalmic nerve, supplies sensation to the scalp and forehead. The middle branch, or maxillary nerve, supplies sensation to the nose, lips and cheeks. Finally the lowest branch, the mandibular nerve, supplies sensation to the bottom lip, teeth and gums[2]. The main symptom that people seek medical attention for is the severe attacks of pain located unilaterally on the face over the sensory distribution of the affected nerve(s)[4]. The maxillary and mandibular branches are most commonly affected, with the ophthalmic nerve only being affected in 5% of cases[5]. The attacks of pain are usually triggered by touch, cold temperatures, and sound[6].</paragraph>
     <paragraph>This case study describes a 35 year old woman named Ms. R who presented with an insidious onset of left sided facial pain that was impacting her activities of daily living and her occupation. The case of Ms. R’s TN was especially unique because she presented with pain in all three branches of the trigeminal nerve, over the entire left side of her face, making her symptoms more severe than what is typical[5]. The case was perplexing due to her young age, complex symptoms, and absence of any notable etiologies. Ms. R’s case was even more intricate due to the nature of her occupation as a news reporter. Her job requires her to be in cold weather conditions and demands a lot of speaking, both of which have been known to trigger the painful attacks that are characteristic of TN[6].</paragraph>
@@ -18,8 +22,10 @@
     <paragraph>Ms. R is a 35 year old female, who works as a news reporter. Ms. R first experienced intense pain in the left side of her face one morning while applying makeup around her forehead and eyebrow region. Later that morning, while filming a news report on scene at a road traffic accident, Ms. R began to experience severe pain that was radiating along her left jawline and into her lower gums. Ms. R thought that this stabbing pain may be due to a dental cavity; however, she thought it was strange that the pain seemed to intensify with strong wind gusts and recalled the intense facial pain she had experienced earlier that morning when applying makeup to her face. Initially Ms. R was experiencing 2-3 attacks per day for several weeks, which then escalated to upwards of 10 attacks per day and were frequently triggered by activities of  daily life including speaking, chewing, applying makeup and brushing her teeth. After a month of experiencing these debilitating facial pain attacks, Ms. R was prompted to visit her family physician who decided to consult neurology given the unique presentation of her symptoms. Based on Ms. R’s recent history of sudden attacks of intense, stabbing pain (lasting no longer than 2 minutes in length) that are not associated with other neurological deficits or disorders, Ms. R was deemed to have met all diagnostic criteria for TN as defined by the The International Headache Society[8]. Following further investigation, she was subsequently diagnosed with CTN. The neurologist prescribed gabapentin[9]for nerve pain control and opted to take a conservative approach to treatment and reassess in 2 months for any improvements in her symptoms before resorting to surgery. Ms. R's neurologist also referred her to physiotherapy for help with symptom management.</paragraph>
   </section>
   <section>Examination Findings</section>
+  <section>Subjective</section>
+  <section>Objective</section>
   <section>
-    Objective
+    Observation
     <image src="https://www.physio-pedia.com/images/thumb/2/26/Sensory_distribution_of_the_trigeminal_nerve..png/300px-Sensory_distribution_of_the_trigeminal_nerve..png"/>
     <paragraph>Trigeminal Nerve (CN V) Tests</paragraph>
     <list>
@@ -27,6 +33,7 @@
       <item>Maxillary Branch (cheeks) (green)</item>
       <item>Mandibular Branch (chin) (orange)</item>
     </list>
+    <video src="//www.youtube.com/embed/uYC2YKXJqi0?"/>
     <list>
       <item>Touching your face (including grooming): 7/10</item>
       <item>Brushing or flossing your teeth: 7/10</item>
@@ -62,8 +69,9 @@
     <paragraph>Impaired talking ability</paragraph>
     <paragraph>Social isolation due to fear of pan</paragraph>
   </section>
+  <section>Intervention</section>
   <section>
-    Intervention
+    Treatment Goals
     <paragraph>Short Term Goals:</paragraph>
     <list>
       <item>Ms. R will be able to eat a full meal (non-hard foods) with reduced pain (NPRS &lt;4/10) by the end of week 2 of treatment.</item>
@@ -80,6 +88,9 @@
       <item>Ms. R will be able to complete a full work day of news reports with reduced pain (NPRS &lt;3/10) by the end of week 8.</item>
       <item>Ms. R. will decrease the number of painful episodes (neural attacks), &lt;5 attacks/day (NPRS &lt;5)  by the end of week 8 of treatment.</item>
     </list>
+  </section>
+  <section>
+    Management Program:
     <paragraph>Physiotherapy Treatment Program:</paragraph>
     <table>
       <tr>
@@ -147,8 +158,10 @@
     <paragraph>soft cloth on patient's affected left side[16]</paragraph>
     <paragraph>TN is a very painful condition that can have profound negative effects on one's quality of life. For this reason the self-management strategies (1) deep breathing, (2) distraction, and (3) desensitization were implemented into the treatment program to assist the patient in coping with their pain and anxiety. Deep breathing was provided to decrease anxiety levels[15]. Distraction (imagery) helped the patient divert her attention away from her pain and improve her overall mood[15]. In addition, the desensitization program aims to promote habituation of the nervous system to a constant sensory stimulus[16].</paragraph>
   </section>
+  <section>Outcome</section>
+  <section>After 8 Weeks of Physiotherapy Treatment</section>
   <section>
-    Outcome
+    Referrals
     <paragraph>Ms. R presents with multiple yellow flags (anxiety due to her debilitating pain and lack of social support), making her a suitable candidate for referral to a psychologist. The psychologist will work alongside other members of Ms. R’s healthcare team to integrate Cognitive-Behavioral Therapy (CBT) into the treatment program[17]. Moreover, they can work with Ms. R to change her negative thoughts, beliefs and attitudes about her condition while providing her with coping strategies to manage her anxiety and pain. In collaboration with a physiotherapist and other members of the healthcare team, a psychologist will help to set goals that are functional and meaningful[17]. This will provide Ms. R with strategies she can implement to track her progress during her road to recovery. Additionally, she will benefit greatly from restructuring how she thinks about her pain. Cognitive restructuring, implemented by a psychologist can help to decrease her pain intensity and increase her pain tolerance[17].</paragraph>
     <paragraph>After receiving 2 months of physiotherapy treatment, Ms. R’s pain symptoms were slightly reduced; however, she did not progress to achieve the originally planned short-term and long-term treatment goals. Failure to accomplish these goals is a sign that physiotherapy treatment may not be sufficient to reduce her pain to a desirable level. For this reason, Ms. R will be referred back to her neurologist for an additional consultation. In collaboration with the other members of Ms. R’s healthcare team the neurologist will determine whether to continue with conservative treatment or refer her to a neurosurgeon for surgical interventions. There are numerous surgical techniques that the neurosurgeon may choose to treat Ms. R’s condition. The most common surgical procedures that are used to treat CTN are microvascular decompression (removal of a blood vessel compressing the trigeminal nerve), percutaneous rhizotomy (surgical compression of trigeminal nerve root to disrupt the pain causing pathway), and stereotactic radiosurgery (radiation therapy)[18].</paragraph>
   </section>

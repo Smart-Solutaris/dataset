@@ -4,4 +4,55 @@
   <source>Case Study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Diabetic_Amputee:_Amputee_Case_Study</url>
   <parent_folder>Amputee Case Study</parent_folder>
+  <section>Diabetic Amputee: Amputee Case Study</section>
+  <section>
+    Title
+    <paragraph>Diabetic Amputee</paragraph>
+  </section>
+  <section>
+    Abstract
+    <paragraph>45 year old female with type 1 diabetes, developed a non-healing ulcer which led to a transtibial amputation. The patient underwent a physiotherapy primary assessment and then attended prosthetic rehabilitation. She progressed to being independently mobile both indoors and outdoors. The patient was prone to exercise-induced hypoglycaemia, however, this improved overtime</paragraph>
+  </section>
+  <section>
+    Key Words
+    <paragraph>transtibial amputation, diabetes, hypoglycaemia</paragraph>
+  </section>
+  <section>
+    Client Characteristics
+    <paragraph>Unemployed female smoker, aged 45.Medical Diagnosis: poorly controlled Type 1 Diabetes, left transtibial amputation secondary to diabetic dysvascularity and a non-healing ulcer.Comorbidities: peripheral vascular disease, peripheral neuropathy (dropfoot on sound foot), diabetic retinopathy.Previous care or treatment: provision of splint to prevent dropfoot on right side, podiatry and district nursing management of foot ulcers (dressings, shoes).</paragraph>
+  </section>
+  <section>
+    Examination Findings
+    <paragraph>Presenting Complaint: patient injured left foot but did not notice a break in the skin due to neuropathy. A non-healing ulcer developed on her heel. This was managed by district nurses and podiatry. The ulcer became infected and she developed osteomyelitis. Surgical management was required: debridement and transtibial (TT) amputation.</paragraph>
+    <paragraph>Chief complaints: phantom limb painMedical history: foot drop on sound foot due to peripheral neuropathy, poorly controlled diabetes and prone to exercise-induced hypoglycaemiaPatient goals: to mobilise indoors and outdoors without aids, to use the stairs and sleep back upstairs (pre-morbid mobility: independent over long distances)</paragraph>
+    <paragraph>Self Report Outcome Measures: LCI-5 8/56Physical Performance Measures: independent with all low level and bed transfers, able to stand on sound foot with use of bars, good standing tolerance and balance</paragraph>
+    <paragraph>Objective :</paragraph>
+    <paragraph>ICF Findings:</paragraph>
+  </section>
+  <section>
+    Clinical Hypothesis
+    <paragraph>The patients main problems are poorly controlled diabetes and health illiteracy.The patient was an excellent candidate for a prosthesis and was likely to achieve both indoor and outdoor mobility.</paragraph>
+  </section>
+  <section>
+    Intervention
+    <paragraph>I discussed smoking cessation and the patient was to manage this with her GP.I referred her for consultant review regarding her pain management as her phantoms pain were keeping her awake at night. The dose of gabapentin was increased.Prosthetic rehab:</paragraph>
+    <paragraph>Initially, the patient experienced exercise-induced hypoglycaemia (dizziness, impaired vision, body trembling). The nursing staff assessed her blood sugars during rehab when required. The patient developed a more regular eating pattern. By the end of rehab, she no longer experienced her symptoms</paragraph>
+  </section>
+  <section>
+    Outcome
+    <paragraph>The patient progressed to being independently mobile. She moved home and was no longer socially isolated. She was able to go shopping independently and walked for many hours (using a stick if required). She had progressed to wearing the prosthesis for 7 hours and was educated regarding building up skins tolerance more slowly. Her blood sugars were more stable by the end of the rehab process.LCI-5: 56/5610m Timed Walk 9.2 seconds (no aids)Timed Up and Go 12.1 seconds (no aids)Unfortunately, she has developed a small ulcer on her little toe of her sound foot and this is being managed by podiatry and orthotics</paragraph>
+  </section>
+  <section>
+    Discussion
+    <paragraph>This was a typical presentation of a diabetic amputee. She was experiencing the early onset of many long-term complications associated with chronic diabetes. The history of presenting complaint coincides with the literature, in that a minor pivotal trauma occurred which led to an ulcer that preceded the amputation. For example, Pecoraro (1990)[1]found that diabetic patients had a minor identifiable trauma resulting in a cutaneous injury, leading to 69-80% of all amputations.</paragraph>
+    <paragraph>She has developed a small ulcer on her sound foot. This coincides with the literature that states that there is a greater risk of reamputation amongst diabetics with a high risk of amputation to the contralateral limb (11.6% at 1 year and 53.3% at 5 years)[2].In terms of clinical practice, a close working relationship was required with the nursing staff to monitor her blood sugars during rehab. Younk et al (2011)[3]reports that diabetics on insulin are at increased risk of exercise-induced hypoglycaemic episodes and provides advice on monitoring and managing this. This patient developed less episodes of hypoglycaemia as she became more active and she developed an independent exercise regime at home, by walking daily. Overall, she was much more self-aware and educated regarding the effects of both her diabetes and smoking on her body systems.</paragraph>
+  </section>
+  <section>
+    References
+    <list>
+      <item>↑Pecoraro RE, Reiber GE, Burgess EM. Pathways to diabetic limb amputation. Basis for prevention., Diabetes Care. 1990; 13(5): 513-21</item>
+      <item>↑Izumi Y, Satterfield K, Lee S, Harkless L. Risk of Reamputation in Diabetic Patients Stratified by Limb and Level of Amputation: 10-year observation. 2006; 29 (3): 566-570 Online:http://care.diabetesjournals.org/content/29/3/566.long, Diabetes Care</item>
+      <item>↑Younk, Mikeladze, Tate, Davis. Exercise-related hypoglycaemia in diabetes mellitus. Expert Rev Endocrinol Metab, 2011: 6(1): 93-108</item>
+    </list>
+  </section>
 </document>

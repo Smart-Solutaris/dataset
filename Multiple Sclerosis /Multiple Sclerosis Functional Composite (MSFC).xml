@@ -4,9 +4,11 @@
   <source>nan extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Multiple_Sclerosis_Functional_Composite_(MSFC)</url>
   <parent_folder>Multiple Sclerosis </parent_folder>
+  <section>Multiple Sclerosis Functional Composite (MSFC)</section>
   <section>
     Purpose
     <paragraph>The Multiple Sclerosis Functional Composite (MSFC) was designed by "The National MS Society's Clinical Outcome Assessment Task" and is a standardized tool used to quantify the degree of disability in patients withmultiple sclerosis(MS)[1]. Limitations inExpanded Disability Status Scaleleads to the development of MSFC in the early 1990s, to improve the clinical assessment of patients with multiple sclerosis[2][3]. The traditional scales such as the EDSS scale are inadequate in measuring some key aspects of MS for example cognitive function and have psychometric limitations as well[1].</paragraph>
+    <video src="//www.youtube.com/embed/ZwWaBFUDfm4?"/>
     <paragraph>[4]</paragraph>
   </section>
   <section>
@@ -18,6 +20,10 @@
       <item>Cognitive function</item>
     </list>
     <paragraph>Performed within 20 minutes.</paragraph>
+  </section>
+  <section>Required equipment</section>
+  <section>
+    Considerations
     <table>
       <tr>
         <td>Nine-Hole Peg Test</td>

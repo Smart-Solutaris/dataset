@@ -4,6 +4,7 @@
   <source> Case Study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Myasthenia_Gravis:_Case_Study</url>
   <parent_folder>Neurological </parent_folder>
+  <section>Myasthenia Gravis: Case Study</section>
   <section>
     Abstract
     <paragraph>This project is a fictional case study developed by Physical Therapy students fromQueen's Universityto help with the understanding of the implications of aMyasthenia Gravis(MG) diagnosis on physical therapy assessment and treatment. The case study shows the clinical presentation, expectation of symptoms, comorbidities, and impairments of a patient diagnosed with MG.  The case also presents some objective measures and treatment options based on individualities of the patient’s disease presentation. It is important to note that MG symptoms can vary among individuals, so the following assessment, outcome measures, and treatment plan may not be appropriate for all individuals diagnosed with MG, and an individual assessment would be necessary to determine the best course of action for other patients.</paragraph>
@@ -12,6 +13,7 @@
   <section>
     Pathophysiology
     <paragraph>Myasthenia Gravis (MG) is an autoimmune disease affecting the antibodies to receptors at the neuromuscular junction, causing muscle weakness and fatigue[1]. Individuals with MG have decreased acetylcholine and voltage-gated sodium channels due to damage of their postsynaptic membranes[2]. This dysfunction in the neuromuscular junction results in decreased response and amplitude of the corresponding muscles[2].</paragraph>
+    <video src="//www.youtube.com/embed/e31zVpZXug4?"/>
   </section>
   <section>
     Comorbidities

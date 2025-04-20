@@ -4,6 +4,7 @@
   <source>Case Study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Adult_Spastic_Cerebral_Palsy:_A_Case_Study_Amidst_A_Lack_of_Evidence</url>
   <parent_folder>Adult Spastic Cerebral Palsy</parent_folder>
+  <section>Adult Spastic Cerebral Palsy: A Case Study Amidst A Lack of Evidence</section>
   <section>
     Abstract
     <paragraph>This fictional case is presented in order to share the impact that a physiotherapy intervention can have on the body structure, activity, and participation of an adult with spasticcerebral palsy. Additionally, this case adds to the limited evidence and case studies done to examine adults with cerebral palsy, a population that is severely under-reported. This case demonstrates the importance of physiotherapy in chronic conditions such as cerebral palsy, and the changes that exercise-based interventions can have for an adult who is deteriorating due to this condition.</paragraph>
@@ -36,13 +37,18 @@
     <paragraph>The patient had impaired sensation in the right upper and lower extremities, with decreased 2 point discrimination, proprioception, and astereognosis. Deep tendon reflexes were brisk with clonus and the Babinski sign was present. The presentation of decreased sensation and hyperreflexia are common in people with spastic cerebral palsy[5].</paragraph>
     <paragraph>During gait, the patient used his posterior posture four wheeled walker. The patient demonstrated circumduction and adduction of the right hip during the swing phase. Initial contact was made on metatarsal heads, demonstrating foot equinus. The patient had a flexed and stiff right knee and hip throughout the gait cycle, and anterior pelvic tilt. The patient's gait was slow and he demonstrated shortened stride length, decreased stance time on the right side and minimal trunk movement. The patient’s gait pattern was similar to those previously described in cerebral palsy[7].</paragraph>
   </section>
+  <section>Outcome Measures at Baseline</section>
   <section>
-    Outcome Measures at Baseline
+    Gross Motor Function Classification System (GMFCS)
     <image src="https://www.physio-pedia.com/images/thumb/7/7d/Screen_Shot_2019-05-07_at_3.26.54_PM.png/300px-Screen_Shot_2019-05-07_at_3.26.54_PM.png"/>
     <image src="https://www.physio-pedia.com/images/thumb/1/1f/Screen_Shot_2019-05-07_at_3.27.08_PM.png/300px-Screen_Shot_2019-05-07_at_3.27.08_PM.png"/>
     <paragraph>The GMFCS is a classification tool used in children with cerebral palsy up to age 18[8]. The classification for this patient was based on the description in figure 1 and 2 of level 3 for children between 12 and 18[9], as there is currently no classification system for adults with cerebral palsy[8].  The patient is classified as a level 3 within this system.</paragraph>
     <paragraph>For more information on this scale please refer toGross Motor Function Classification System - Expanded and Revised (GMFCS-ER)</paragraph>
     <paragraph>To see a video demonstrating this system pleaseclick here</paragraph>
+    <video src="//player.vimeo.com/video/293380093"/>
+  </section>
+  <section>
+    SF-36 Health Survey
     <paragraph>TheSF-36health survey is used to measure a patient's health quality of life. This assessment can be separated into 8 separate domains. Results for this patient according to the 8 domains are presented here, and are common in patients with this presentation[10].</paragraph>
     <list>
       <item>Vitality (energy/Fatigue): score = 60</item>
@@ -54,7 +60,13 @@
       <item>Role limitations due to physical problems: score = 100</item>
       <item>General Health: score= 50</item>
     </list>
+  </section>
+  <section>
+    Body Mass Index (BMI)
     <paragraph>The patient has a height of 5’5 inches and a weight of 110 lbs, making hisBMI18.3. This BMI indicates that the patient is underweight[11], which is a common presentation in adults with cerebral palsy, as they often have trouble eating[6].</paragraph>
+  </section>
+  <section>
+    Functional Independence Measure (FIM)
     <list>
       <item>Self care: score = 37</item>
       <item>Sphincter control: score = 14</item>
@@ -65,8 +77,14 @@
     </list>
     <paragraph>TotalFIMscore = 103</paragraph>
     <paragraph>Results for this outcome measure were predicted using Gannotti et al.’s[12]and Sandström et al.’s[13]articles.</paragraph>
+  </section>
+  <section>
+    6 Minute Walk Test
     <paragraph>There is little consensus in the literature as to which balance tests are valid in the population of adults with cerebral palsy. However this test has been shown to be reliable in adults with cerebral palsy[14]and it is used by researchers to record the effectiveness of their intervention with a population of people with cerebral palsy (average age of 15.5 years old)[15].</paragraph>
     <paragraph>Meters walked in6 minutes: 239 m</paragraph>
+  </section>
+  <section>
+    Balance Evaluation Systems Test (BESTest)
     <paragraph>There is little consensus in the literature as to which balance tests are valid in the population of adults with cerebral palsy. However this test is used by researchers when examining an adult population with spastic cerebral palsy[16]and so we will use it here.</paragraph>
     <paragraph>The following indicates the 6 subsystems measured using theBESTest. The score is presented as a percentage of the total possible score in each section.</paragraph>
     <list>
@@ -86,6 +104,8 @@
   <section>Impairments</section>
   <section>Intervention</section>
   <section>Patient-Centred Treatment Goals</section>
+  <section>Short Term (0-8 weeks)</section>
+  <section>Long Term Goals (9-24 weeks)</section>
   <section>
     Intervention Approach: Body, Structure, and ICF Domain
     <paragraph>To reach his body, structure, and function goals that are the basis for more functional goals presented in the next section we targeted three main areas with interventions</paragraph>
@@ -97,6 +117,9 @@
       <item>BalanceWith the goal increasing gait and ADL abilities</item>
       <item>With the goal increasing gait and ADL abilities</item>
     </list>
+  </section>
+  <section>
+    Techniques Used:
     <table>
       <tr>
         <td>Joint</td>
@@ -197,11 +220,15 @@
       <item>Aerobic conditioningTo allow the client to participate in daily activities such as getting around the house, spending time with friends etc. without feeling tired</item>
       <item>To allow the client to participate in daily activities such as getting around the house, spending time with friends etc. without feeling tired</item>
     </list>
+  </section>
+  <section>
+    Techniques Used:
     <paragraph>Week 0-8: TreadmillTraining</paragraph>
     <paragraph>A study by Hesse et al.,[21]shows that among individuals who are non ambulatory and have hemiparesis, weighted body treadmill training and can be effective in restoring normal walking abilities in a shorter amount of time compared to land training. This therapy has also been used in children with spastic cerebral palsy with good outcomes[22]. We decided to begin our patient’s gait training with weighted treadmill training as follows:</paragraph>
     <paragraph>Weeks 9-16: Parallel Bar Training</paragraph>
     <paragraph>Weeks 17-24: Rhythmic Auditory Stimulation</paragraph>
     <paragraph>Weeks 0-4: Mirror Therapy and Motor ImageryTraining</paragraph>
+    <video src="//www.youtube.com/embed/kc7OiOBv-t0?"/>
     <paragraph>Weeks 4-16: Computer Gaming Exercises</paragraph>
     <paragraph>Weeks 17-24: Internet-Based Exercises</paragraph>
   </section>
@@ -209,9 +236,13 @@
     Outcome
     <paragraph>Patient education about when and how often to see health professionals was emphasized before discharge. The NICE guidelines indicate that adults with cerebral palsy should contact their interdisciplinary team when their ability to do activities of daily living deteriorates, or if they are considering a surgical treatment[28]. This patient has been living with cerebral palsy since the age of one, and already has a interdisciplinary health team in place, so no referrals were required. The patient met outpatient physiotherapy goals, and was discharged to home, with an exercise plan. The exercise plan will include similar exercises to the intervention, so the patient can maintain his function.</paragraph>
   </section>
+  <section>Outcome Measures Post Intervention</section>
   <section>
-    Outcome Measures Post Intervention
+    Gross Motor Function Classification System (GMFCS)
     <paragraph>Level 3 [no change]</paragraph>
+  </section>
+  <section>
+    SF-36 Health Survey
     <list>
       <item>Vitality (energy/Fatigue):score = 80 [score was 60 at baseline]</item>
       <item>Role limitations due to     emotional problems: score = 200 [score was 100 at baseline]</item>
@@ -222,7 +253,13 @@
       <item>Role limitations due to physical problems: score = 200 [score was 500 at baseline]</item>
       <item>General Health: score= 50 [score was 50 at baseline, no change]</item>
     </list>
+  </section>
+  <section>
+    BMI
     <paragraph>5’5 inches and a weight of 120 lbs, making his BMI 20, compared to a BMI of 18.3 at baseline.</paragraph>
+  </section>
+  <section>
+    FIM
     <list>
       <item>Self care: score = 40 [score was 37 at baseline]</item>
       <item>Sphincter control: score = 14 [score was 14 at baseline]</item>
@@ -232,7 +269,13 @@
       <item>Communication: score = 13 [score was 12 at baseline]</item>
     </list>
     <paragraph>Total FIM score = 112 [score was 103 at baseline]</paragraph>
+  </section>
+  <section>
+    6 Minute Walk Test
     <paragraph>Meters walked in 6 minutes: 302 m [239 m at baseline]</paragraph>
+  </section>
+  <section>
+    BEST
     <list>
       <item>Biomechanical constraints: score =65 [score was 57 at baseline]</item>
       <item>Stability limits/verticality: score =79 [score was 76 at baseline]</item>
@@ -242,6 +285,7 @@
       <item>Stability in gait:score=70 [score was 67 at baseline]</item>
     </list>
   </section>
+  <section>Other Noted Outcomes</section>
   <section>
     Discussion
     <paragraph>This 24 year old patient with CP presented to physiotherapy to improve his ability to ambulate, perform ADLs and reduce pain. After 24 weeks of physiotherapy treatment the patient showed measurable improvements in gait, balance as well as increased independence with ADLs. The patient was discharged with a home exercise program (HEP) after 24 weeks as he had met all of his outpatient physiotherapy goals.</paragraph>

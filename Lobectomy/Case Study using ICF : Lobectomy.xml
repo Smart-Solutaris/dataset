@@ -5,6 +5,10 @@
   <url>https://www.physio-pedia.com/Case_Study_using_ICF_:_Lobectomy</url>
   <parent_folder>Lobectomy</parent_folder>
   <section>
+    Case Study using ICF : Lobectomy
+    <paragraph>Original Editor-Sonal Joshi</paragraph>
+  </section>
+  <section>
     Abstract
     <paragraph>This article will cover a case study of Mr. V, who has been recently undergone lobectomy secondary tobronchiectasis. He has been recommended physiotherapy in theICU. The article follows the journey of the physiotherapist assessing Mr. V usingICFformat.</paragraph>
     <paragraph>Please note the below case study is imaginary but inspired from actual pulmonary surgical patients. Therefore, it may not include all symptoms or signs of the disease condition. Do keep in mind that the patient assessment findings will vary slightly from patient to patient, changing the treatment protocol accordingly.</paragraph>
@@ -25,11 +29,19 @@
     Investigations
     <paragraph>This radiological investigations help us understand the areas of lung involved and is also an outcome measure post physiotherapy treatment.</paragraph>
   </section>
+  <section>HRCT (Pre-operative)</section>
+  <section>Chest X-ray (Post-operative)</section>
+  <section>Objective Examination</section>
   <section>
-    Objective Examination
+    On Inspection
     <paragraph>Mr. V was assessed in sitting position. He was found to have</paragraph>
+  </section>
+  <section>
+    On Palpation
     <paragraph>Mr. S assessed in sitting position had,</paragraph>
   </section>
+  <section>On Percussion</section>
+  <section>On Auscultation</section>
   <section>Summarizing Assessment using ICF</section>
   <section>
     Structural and Functional Impairments
@@ -141,8 +153,9 @@
   </section>
   <section>Activity Limitation</section>
   <section>Participation Restriction</section>
+  <section>Contextual Factors</section>
   <section>
-    Contextual Factors
+    Environmental
     <table>
       <tr>
         <td>Sr. No.</td>
@@ -160,6 +173,9 @@
         <td/>
       </tr>
     </table>
+  </section>
+  <section>
+    Personal
     <table>
       <tr>
         <td>Sr. No.</td>

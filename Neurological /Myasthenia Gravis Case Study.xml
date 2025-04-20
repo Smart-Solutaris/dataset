@@ -4,6 +4,7 @@
   <source>nan extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Myasthenia_Gravis_Case_Study</url>
   <parent_folder>Neurological </parent_folder>
+  <section>Myasthenia Gravis Case Study</section>
   <section>
     Abstract
     <paragraph>The purpose of this fictional case study is to explore the physiotherapy assessment and treatment progression of a 35 year old woman diagnosed with myasthenia gravis (MG), class IIa. The patient discussed in this case study presents with fatigable weakness affecting mainly her upper limbs as well as diplopia. Due to an increased workload, the patient developed right shoulder pain, leading her to seek physiotherapy care. The physiotherapist developed an individualized treatment plan based on the patient’s short and long term goals which involved education, self management strategies, resistance and aerobic exercises, and manual therapy. Outcome measures (QuickDASH and MG QoL 15) were completed upon initial assessment and discharge to assess her progression throughout the 6 week treatment period. By the end of the treatment period, the patient had met all her treatment goals and continued to work on self-management of her MG.</paragraph>
@@ -23,11 +24,19 @@
   <section>
     Examination Findings
     <paragraph>The patient came in for a physiotherapy assessment on Monday, September 10, 2018 at 4:00 pm.</paragraph>
-    <paragraph>Patient reported an aching pain in her right shoulder with occasional shooting pain when reaching too high overhead on bookshelves. She reports having little to no pain at the beginning of the day but it progressively gets worse and by her lunch break she is unable to unload a full cart of books. After taking a 30 minute lunch break, her fatigue and pain improves and she prefers finishing the rest of her day with computer work. By the end of the day, she notices her vision becomes slightly blurred and finds it worsens when driving home. Patient reports feeling frustrated with her exhaustion at the end of the day and is unable to do her normal activities with her husband including cooking and walking the dog because of arm weakness. Patient reports having a nap when she gets home from work and sleeping well through the night. No red flags were detected.</paragraph>
   </section>
   <section>
-    Clinical Impression
+    Subjective
+    <paragraph>Patient reported an aching pain in her right shoulder with occasional shooting pain when reaching too high overhead on bookshelves. She reports having little to no pain at the beginning of the day but it progressively gets worse and by her lunch break she is unable to unload a full cart of books. After taking a 30 minute lunch break, her fatigue and pain improves and she prefers finishing the rest of her day with computer work. By the end of the day, she notices her vision becomes slightly blurred and finds it worsens when driving home. Patient reports feeling frustrated with her exhaustion at the end of the day and is unable to do her normal activities with her husband including cooking and walking the dog because of arm weakness. Patient reports having a nap when she gets home from work and sleeping well through the night. No red flags were detected.</paragraph>
+  </section>
+  <section>Objective</section>
+  <section>Clinical Impression</section>
+  <section>
+    Physiotherapy Diagnosis
     <paragraph>Impaired motor function and fatigable weakness affecting upper extremities and face, with significant impairments affecting the functional mobility of the right dominant shoulder as the day progresses. Difficulties completing instrumental activities of daily living and occupational duties.</paragraph>
+  </section>
+  <section>
+    Problem List
     <list>
       <item>Unable to complete IADLs and activities at work due to shoulder pain and fatigable weakness.</item>
       <item>Unable to reach above head due to decreased ROM and strength in shoulder flexion and abduction.</item>
@@ -35,19 +44,26 @@
       <item>Unable to work at her computer for long periods of time due to diplopia and eye fatigue.</item>
     </list>
   </section>
+  <section>Intervention</section>
   <section>
-    Intervention
+    Short Term Goals
     <list>
       <item>Be able to complete a full work day without having to stop from fatigue by the end of the first week.</item>
       <item>Reduce shoulder pain to 0/10 at the beginning of the day and 4/10 after work by 2 weeks.</item>
       <item>Increase shoulder active range to 110° flexion and 120° abduction by 2 weeks.</item>
     </list>
+  </section>
+  <section>
+    Long Term Goals
     <list>
       <item>Improve QuickDASH score to 30% by 6 weeks.</item>
       <item>Improve MG QoL 15 score to 8/30 by 6 weeks.</item>
       <item>Increase shoulder flexion and abduction strength to 3+/5 MMT and scapular protraction/retraction to ⅘ MMT by 6 weeks.</item>
       <item>Be able to work in the kitchen with her husband for an hour (cooking and cleaning) without fatigue or pain every second night by 4 weeks.</item>
     </list>
+  </section>
+  <section>
+    Management Program
     <list>
       <item>Management at work:A discussion about pacing activities appropriately throughout the day to minimize fatigue took place. With the patient, we came up with a work schedule that gives her ample breaks throughout the day. She will space out  30 minutes of stocking shelves/loading book carts with 30 minutes of restful computer work to help minimize fatigue. Additionally, it was suggested that she find a dark and quiet room during her lunch break and attempt to take a nap if possible. Research shows 5 minutes of napping or more during the day helps decrease neuromuscular fatigue[5]. To improve blurriness and vision while looking at the computer screen, a glare screen and screen reading software can be installed[1].</item>
       <item>A discussion about pacing activities appropriately throughout the day to minimize fatigue took place. With the patient, we came up with a work schedule that gives her ample breaks throughout the day. She will space out  30 minutes of stocking shelves/loading book carts with 30 minutes of restful computer work to help minimize fatigue. Additionally, it was suggested that she find a dark and quiet room during her lunch break and attempt to take a nap if possible. Research shows 5 minutes of napping or more during the day helps decrease neuromuscular fatigue[5]. To improve blurriness and vision while looking at the computer screen, a glare screen and screen reading software can be installed[1].</item>
@@ -59,10 +75,17 @@
     <paragraph>Patient will go on a 20 minute walk at a moderate pace every second day with one rest halfway. If the patient wants to bring her dog on the walk ensure the leash is tied around the waist to avoid holding it with her right arm. Aerobic training was shown to improve the patient’s score in the 6 minute walk test and 30 second sit to stand test in patients with mild MG[7]. It should be noted that the participants in this study participated in an exercise program that involved both resistance and aerobic training, so it is difficult to determine whether these benefits were due to the resistance aspect, aerobic aspect, or both. Low impact aerobic exercise was shown to help decrease fatigue, increase strength, and improve functional mobility[9].</paragraph>
     <paragraph>During treatment sessions, soft tissue release will be done to address the increased tightness in the pectoralis major and upper fiber trapezius. This aspect of treatment will also help provide some relaxation for the patient.</paragraph>
   </section>
+  <section>Outcome</section>
   <section>
-    Outcome
+    2-Week Follow Up
     <paragraph>Upon entering her appointment, the patient’s posture had improved, showing less forward head posture and her right shoulder was aligned more posteriorly. Patient reported her new work schedule that incorporated more breaks was going well. She attempts to take a quick nap during her lunch breaks, but is only able to fall asleep about half of the time. When she is able to fall asleep, she finds her fatigue is reduced for the rest of the day. She reports no shoulder pain in the morning, but at the end of the day it can range from 3/10 to 5/10 depending on the workload that day. She stated that she is able to help cook dinner with her husband twice a week now and during her evening walks she has to take multiple breaks. Upon re-evaluation of her right active shoulder range, she was able to achieve 120° flexion and 130° abduction. She says her exercises are going well, especially the broomstick exercises. To progress this exercise, we had her do lateral and forward shoulder raises with no weight to the end of her available range. She was able to do 3 sets of 8 repetitions during the session with no pain so we added this to her home exercise program. The patient was interested in the ideas for adaptations at home but was not able to set it up herself. It was agreed upon that she would be referred to occupational therapy (OT) for a home-assessment to introduce new ideas and assist with set-up.  Patient reports feeling excited with her progress so far and is eager to continue and adapt to living with MG.</paragraph>
+  </section>
+  <section>
+    4-Week Follow Up
     <paragraph>During this appointment, shoulder range and strength were re-assessed. Shoulder active range was measured at 140° flexion and 160° abduction, and strength was measured at ⅗ MMT for shoulder flexion, abduction and scapular protraction and at 3+/5 for scapular retraction. She stated her exercises were still going well and that the prone Ts were now becoming easy, so she tried with 1lbs weights and had no pain. This was updated in her home exercise program. Her work schedule was still going well, and she was now able to cook dinner with her husband 3-4 nights a week. She was frustrated that when walking her dog in the evening, she still had to take several breaks to avoid fatigue. She was re-assured that this is normal for her, and that if she had to take several breaks during her walk that that was completely okay and better than pushing through and being fatigued as a result. When asked about pain, she stated that after most work days her shoulder pain is only 2/10. She was also excited about her OT home assessment which would be occurring in 2 days.</paragraph>
+  </section>
+  <section>
+    6-Week Follow Up/Discharge
     <paragraph>This was the last scheduled appointment with the patient and served as planning for discharge as she had made good progress in all of her treatment goals. Her shoulder was now pain free and had near full range. Her shoulder strength was reassessed at ⅘ for abduction, flexion, retraction, and protraction. Her home exercise program was modified to progress her current exercises with increased weight, and general upper and lower extremity resistance exercises were added  (body weight squats, hip extension, side lying hip abduction, and ankle plantar flexion, modified push up, bicep curl, tricep extension) as a measure to maintain her overall strength and help prevent future injury. She continued to help her husband cook dinner 3-4 nights a week and enjoyed her walks while taking breaks as needed. QuickDASH and MG QoL 15 were also reassessed for discharge. Patient’s QuickDASH score improved to 25% and MG QoL 15 score was 7/30. Lastly, after the OT home assessment, she was able to get a new set-up at home including a shower bench and a blow dryer holder. The patient enjoyed these new changes. Upon discharge she was advised to return to physiotherapy or consult another health care practitioner if her condition worsened or she encountered a new problem. The patient was pleased with the progress she made and was eager to continue to self-manage her MG effectively.</paragraph>
   </section>
   <section>

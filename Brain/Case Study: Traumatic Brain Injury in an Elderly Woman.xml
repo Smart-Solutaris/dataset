@@ -4,6 +4,7 @@
   <source>Case Study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Case_Study:_Traumatic_Brain_Injury_in_an_Elderly_Woman</url>
   <parent_folder>Brain</parent_folder>
+  <section>Case Study: Traumatic Brain Injury in an Elderly Woman</section>
   <section>
     Abstract
     <paragraph>The following fictional case study discusses possible interventions for restoring physical and cognitive function during an in-patient rehabilitation program of a 65-year old woman who presented with atraumatic brain injury (TBI).  She underwent surgical procedure to correct a subdural haematoma in the frontal lobe, resulting from a TBI. She entered the in-patient rehabilitation program two weeks after a craniotomy, with stable vitals. The initial examination findings included impaired memory, balance issues, limited ambulation and increased tone in the left upper and lower extremities as well as right upper extremities. Physiotherapy interventions consisted of balance training, task-specific exercises, strength training, flexibility exercises, gait training and postural education. Outcome measures were then used to reassess the patient's progress at week 4 of in-patient rehabilitation, including: the Berg balance scale, Ranchos Los Amigos scale, Modified Ashworth Scale, gait speed and distance measurements. The Functional Independence Measure (FIM) score improved from 68 upon rehabilitation to 106 when she was discharged to a home-rehabilitation program.</paragraph>
@@ -18,9 +19,13 @@
     <paragraph>The patient underwent acraniotomythe following afternoon. After 2 weeks in the ICU, the patient’sFunctional Independent Measure (FIM)score improved from 57 to 68 and was deemed appropriate for the in-patient rehabilitation unit. The patient presented with 7 days of retrogradeamnesia, and no signs of anterograde amnesia. Her pre-existing conditions includedhypertensionandosteoporosis, and the medications she was taking for these conditions included Perindopril (Coversyl) and Alendronate (Fosamax), respectively. She had limited range of motion and required assistance with ambulation. Due to her FIM score, hospital protocol dictated that she was to enter an in-patient rehabilitation which includes daily physiotherapy.</paragraph>
   </section>
   <section>Examination Findings</section>
+  <section>2 Weeks Post-Op: In-Patient Rehabilitation Program</section>
   <section>
-    2 Weeks Post-Op: In-Patient Rehabilitation Program
+    Subjective
     <paragraph>During the examination, information was collected from the patient’s chart, from members within themultidisciplinary team, the patient and her husband. As mentioned, diagnostic imaging confirmed right-sided focal subdural haematoma, affecting the frontal lobe. When speaking with the patient, she had complaints of dizziness and a headache earlier that morning. Prior to her fall, she was living with her husband in a bungalow and was independent in allactivities of daily living. She is a retired teacher, and her husband is a healthy 68-year-old retired farmer. Her husband reported that she was active and independent and did not use any walking aids prior to her fall. She enjoyed activities such as pickleball, camping, hiking, baking and playing with her grandchildren. Her husband also stated that they had 4 steps to get into their house, with a railing on the right side.  Her main goal was to return home and resume her regular activities. Upon gathering a subjective interview, her husband also explained that he was very concerned about his wife and that he was having difficulties coping with her changes in behaviour.</paragraph>
+  </section>
+  <section>
+    Objective
     <paragraph>After the patient was admitted to in-patient rehabilitation, the patient’s screening results showed stablevital signswith a heart rate of 76bmp, blood pressure of 115/76, SpO2 of 97% and intact integuments. The physiotherapist proceeded to choose various outcome measures to obtain the patient’s mental status at baseline and monitor any changes over time.</paragraph>
     <paragraph>TheGalvestron Orientation and Amnesia Test (GOAT)was used to evaluate the patient’s orientation and ability to recall events before and after the incident[5]. Her GOAT score was 60/100, which was below the cut-off of 66, suggesting impaired memory[5]. Specifically, the patient had in-depth current memory and remembered most events after she gained consciousness in the ICU; however, she showed signs of retrograde amnesia from events that happened within 7 days prior to the incident[5].</paragraph>
     <paragraph>TheRanchos Los Amigosscale is a useful tool to rate the patient’scognitive levelafter the patient regains consciousness from a TBI[6].  During initial assessment, she presented with level VI (Confused-appropriate) on the Ranchos Los Amigos scale[6]. As such, the patient was ready for rehabilitation since she was able to consistently follow simple directions (i.e., one step commands), showed carry over for relearned familiar tasks (e.g., self-care), and could attend to highly familiar tasks for a certain period of time[6]. However, the physiotherapist kept in mind that the patient required maximal assistance in learning new tasks due to the lack of carryover from previous sessions[6]. Additionally, the physiotherapist ensured to take proper safety measures (i.e., maximal supervision) since the patient was unaware of her impairments and was inconsistently oriented to person, time, and space[6].</paragraph>
@@ -352,6 +357,8 @@
         <td>[24]</td>
       </tr>
     </table>
+    <video src="//www.youtube.com/embed/S7KHh530drM?"/>
+    <video src="//www.youtube.com/embed/TntXjlTUhII?"/>
   </section>
   <section>
     Aerobic Exercise Training

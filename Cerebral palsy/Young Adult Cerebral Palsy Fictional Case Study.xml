@@ -4,6 +4,7 @@
   <source>Case Study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Young_Adult_Cerebral_Palsy_Fictional_Case_Study</url>
   <parent_folder>Cerebral palsy</parent_folder>
+  <section>Young Adult Cerebral Palsy Fictional Case Study</section>
   <section>
     Abstract
     <paragraph>This is a fictional case study of a 21 year old female living withCerebral Palsy(CP). The purpose is to identify out-patient musculoskeletal and neurological rehabilitation in adults living with CP.</paragraph>
@@ -25,10 +26,29 @@
   </section>
   <section>Examination Findings</section>
   <section>Subjective</section>
+  <section>History of Present Complaint</section>
+  <section>Past Medical History</section>
+  <section>Current Functional Status</section>
+  <section>Past Functional Status</section>
+  <section>Social History</section>
+  <section>Medications</section>
+  <section>Home/ Work</section>
+  <section>Sleep/ Stress</section>
+  <section>Objective</section>
+  <section>Observations- Postural</section>
+  <section>GaitAnalysis</section>
+  <section>Vitals</section>
   <section>
-    Objective
+    Range of Motion- Active (AROM)
     <paragraph>All UE and LE ROM are Within Normal Limits (WNL), except:</paragraph>
+  </section>
+  <section>
+    Range of Motion- Passive (PROM)
     <paragraph>All UE and LE ROM are Within Normal Limits (WNL), except:</paragraph>
+  </section>
+  <section>Tone</section>
+  <section>
+    Global Strength Testing
     <table>
       <tr>
         <th>Muscle Group</th>
@@ -87,8 +107,12 @@
       </tr>
     </table>
   </section>
+  <section>Neurological Scan</section>
+  <section>Special Tests</section>
+  <section>Palpation</section>
+  <section>Outcome Measures at Baseline</section>
   <section>
-    Outcome Measures at Baseline
+    Pain Assessment:Visual Analog Scale (VAS)
     <paragraph>The VAS as an outcome measure has the strongest reliability and validity for measurement of knee pain caused by OA[5]. Since pain has been shown to be linked to spasticity caused by CP, it is also beneficial to determine the degree of spasticity. It has been shown that thePenn Spasm Frequency Scale(PSFS) has the best association with spasticity-induced pain[6]. It is a self-reported measure that indicates the perception of spasticity for a number of different neurological disorders including CP in adults[6]. The measure looks at the severity and frequency of spasticity[6].</paragraph>
     <paragraph>Case Study:</paragraph>
     <table>
@@ -111,8 +135,14 @@
         <td>2/3</td>
       </tr>
     </table>
+  </section>
+  <section>
+    Walking Assessment:6-Minute Walk Test
     <paragraph>This outcome measure is commonly used to assess an individual’s walking ability in several cardiovascular and neurological disorders. It is shown to have good reliability[7]and concurrent validity[8]of functional mobility and endurance in adults with CP.</paragraph>
     <paragraph>Case Study: 410m</paragraph>
+  </section>
+  <section>
+    Quality of Life
     <paragraph>Pediatric Evaluation of Disability Inventory Computer Adaptive Test (PEDI-CAT):</paragraph>
     <paragraph>The PEDI was revised to a computer adaptive test (CAT) that is intended to be used for adolescents and young adults (up to 21 years old) to assess function and quality of life in a variety of different populations including individuals with CP[9]. The outcome measure looks at daily activities, mobility, social/cognitive abilities, and responsibility and it has a high validity for the daily activity and mobility categories for young adults[9].</paragraph>
     <paragraph>Case Study: Daily Activities = 83, Mobility = 81, Social/Cognition = 89</paragraph>
@@ -171,6 +201,9 @@
     <paragraph>Following the initial consult, the physiotherapy team continued to see Blake 2 times per week for 6 weeks to continue to help improve her symptoms and increase her functional status.</paragraph>
     <paragraph>Blake has met all short and long-term goals. After the 6 weeks, Blake has increased strength in hip extensors, hip abductors, and ankle dorsiflexors. She has been able to consistently walk 20 minutes with decreased pain and is now attending her University classes 3 days a week.</paragraph>
     <paragraph>In addition to meeting her goals, we saw a decrease in overall pain, reduced muscle tone, and increased ROM into dorsiflexion bilaterally. We have observed Blake using her forearm crutches efficiently, which has created a longer stride length and allowed her to offload her knee during long periods of walking. She has demonstrated a proper understanding of when to use her forearm crutches and the importance of using them when needed. Blake has also been following our recommendations to perform additional hip flexor stretches after an extended period of time sitting in class or after a day of increased physical activity.</paragraph>
+  </section>
+  <section>
+    Objective Findings/Outcome Measures at Discharge
     <paragraph>AROM:Ankle dorsiflexion: neutral (0 degrees), Knee flexion: 110 degrees. All other ROM remained unchanged from her initial assessment.</paragraph>
     <paragraph>MMT:Hip extensors, hip abductors, and ankle dorsiflexors all increased to a 4/5</paragraph>
     <paragraph>Tone:</paragraph>
@@ -197,6 +230,9 @@
     </table>
     <paragraph>6-Minute Walk Test:550 m</paragraph>
     <paragraph>PEDI-CAT:Daily Activities = 90, Mobility = 88, Social/Cognition = 89</paragraph>
+  </section>
+  <section>
+    Discharge Plan
     <paragraph>Her discharge plan includes keeping up with her HEP for 2-3 additional months, as well as providing education and information for additional referrals. She has been referred to OT, massage therapy, and a psychologist. She has received accommodations for school that allow her to attend 3 days a week while doing the other 2 days online. Additionally, she has been granted additional time between classes so she does not have to rush when walking across campus. She has been advised to reach out to the physiotherapy team if she requires any additional questions or concerns. Patient has been discharged at this time.</paragraph>
   </section>
   <section>

@@ -5,6 +5,12 @@
   <url>https://www.physio-pedia.com/Case_Study_using_ICF_:_Interstitial_Lung_Disease</url>
   <parent_folder>Other</parent_folder>
   <section>
+    Case Study using ICF : Interstitial Lung Disease
+    <paragraph/>
+    <paragraph>Original Editor-</paragraph>
+    <paragraph>Top Contributors-</paragraph>
+  </section>
+  <section>
     Abstract
     <paragraph>This article will cover a case study of Mr. J, who has been recently diagnosed withInterstitial Lung Disease (ILD). He has been recommended physiotherapy for the same. The article follows the journey of the physiotherapist assessing Mr. J usingICFformat.</paragraph>
     <paragraph>Please note the below case study is imaginary but inspired from actual ILD patients. Therefore, it may not include all symptoms or signs of the disease condition. Do keep in mind that the patient assessment findings will vary slightly from patient to patient, changing the treatment protocol accordingly.</paragraph>
@@ -21,16 +27,26 @@
     History
     <paragraph>Mr. J has a history of,</paragraph>
   </section>
+  <section>Investigations</section>
   <section>
-    Investigations
+    HRCT
     <paragraph>This high resolution CT (HRCT) helps us understand the diagnosis of ILD, areas of lung involved[2]and is also an outcome measure post physiotherapy treatment.</paragraph>
+  </section>
+  <section>
+    Spirometry
     <paragraph>Spirometryis the gold standard tool which can be used in the patients for diagnostic, prognostic and treatment monitoring.</paragraph>
   </section>
+  <section>Objective Examination</section>
   <section>
-    Objective Examination
+    On Inspection
     <paragraph>Mr. J was assessed in standing and sitting position. He was found to have,</paragraph>
+  </section>
+  <section>
+    On Palpation
     <paragraph>Mr. J assessed in standing position had,</paragraph>
   </section>
+  <section>On Percussion</section>
+  <section>OnAuscultation</section>
   <section>
     Six Minute Walk Test
     <paragraph>In order to improve exercise capacity in Mr. J, we need to assess it using a sub-maximal exercise test such assix minute walk test.</paragraph>
@@ -141,8 +157,9 @@
   </section>
   <section>Activity Limitation</section>
   <section>Participation Restriction</section>
+  <section>Contextual Factors</section>
   <section>
-    Contextual Factors
+    Environmental
     <table>
       <tr>
         <th>Sr. No.</th>
@@ -160,6 +177,9 @@
         <td>Has  access to physiotherapy home visit due to living in central location</td>
       </tr>
     </table>
+  </section>
+  <section>
+    Personal
     <table>
       <tr>
         <th>Sr. No.</th>

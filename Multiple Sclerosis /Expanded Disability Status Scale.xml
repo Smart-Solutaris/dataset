@@ -4,6 +4,7 @@
   <source>nan extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Expanded_Disability_Status_Scale</url>
   <parent_folder>Multiple Sclerosis </parent_folder>
+  <section>Expanded Disability Status Scale</section>
   <section>
     Purpose
     <paragraph>A neurologist John Kurtzke in 1983 designed a scale called Expanded Disability Status Scale (EDSS) as an advance from his previous 10-step Disability Status Scale (DSS). It is used to evaluate disability inmultiple sclerosisand monitor changes in the level of disability over time[1].</paragraph>
@@ -23,6 +24,7 @@
       <item>Ambulation score.</item>
     </list>
     <paragraph>Scores from 0 to 4.0 are determined by FS scores, which means that in this range the EDSS is essentially a measure of impairment. Scores of 4.0 higher basically address disability. Ambulatory function and the use of walking aids heavily determine the range of 4.0–7.0, and scores between 7.0 and 9.5 are largely determined by the ability to carry out ADL. Each step is defined by the functional system score.[2]</paragraph>
+    <video src="//www.youtube.com/embed/v9sFiM_lkJ4?"/>
   </section>
   <section>
     Evidence

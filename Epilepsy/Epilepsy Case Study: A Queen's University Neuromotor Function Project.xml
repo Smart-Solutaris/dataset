@@ -4,6 +4,7 @@
   <source>Case Study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Epilepsy_Case_Study:_A_Queen%27s_University_Neuromotor_Function_Project</url>
   <parent_folder>Epilepsy</parent_folder>
+  <section>Epilepsy Case Study: A Queen's University Neuromotor Function Project</section>
   <section>
     Authors:
     <paragraph>Nate Saddy MScPT (c), Aamir Aboosally MScPT (c), Jordan Aslanidis MScPT (c), &amp; Anthony Beilin MScPT (c)</paragraph>
@@ -42,9 +43,15 @@
     <paragraph>Scores of 4+/5 bilaterally in hip flexors, extensors, abductors, and adductors</paragraph>
     <paragraph>Scores of 4/5 bilaterally in knee flexors and extensors</paragraph>
     <paragraph>Scores of 4/5 bilaterally in ankle dorsiflexors and plantar flexors</paragraph>
+  </section>
+  <section>
+    Problem List (Based on theICF Model):
     <paragraph>Body structure &amp; function:Patient reports having balance impairments and clumsiness as a result of his switching to his new AED.</paragraph>
     <paragraph>Activity Problem:Patient struggles with his ability to walk when he is navigating various "complex" environments.</paragraph>
     <paragraph>Participation Problem:Patient's balance impairments are affecting his willingness to participate in social activities like his workplace bowling league</paragraph>
+  </section>
+  <section>
+    Outcome Measures:
     <paragraph>The SharpenedRomberg(SR)</paragraph>
     <paragraph>Based on the problem list, Mr. Gee’s most pressing functional issue was his balance. Due to the patient’s age and overall independence, the SR with eyes open will be used to assess static balance as it was used in Fife et al.[4]to assess balance in older adults with epilepsy who take AEDs.</paragraph>
     <paragraph>Activities-Specific Balance Confidence (ABC) Scale</paragraph>

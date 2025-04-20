@@ -4,6 +4,7 @@
   <source>Case Study extracted from Physiopedia</source>
   <url>https://www.physio-pedia.com/Mary</url>
   <parent_folder>Other</parent_folder>
+  <section>Mary</section>
   <section>
     History
     <paragraph>Mary is a 30 year-old female who presented complaining of two months of progressive low back pain and severe, radiating pain in the right lower extremity. At the time of presentation, she reported associated numbness and weakness in her right lower extremity, particularly in her calf muscle. Her ability to ambulate and perform usual activities was severely impaired.</paragraph>
@@ -25,6 +26,7 @@
   <section>
     Treatment
     <paragraph>The patient underwent a minimally invasive microdiscectomy at L5-S1 through a 18mm incision utilizing the operating microscope and a tubular retractor.</paragraph>
+    <video src="//www.youtube.com/embed/eW8zI_ib1-w?"/>
     <paragraph>This procedure allowed for removal of the extruded disc fragments that were compressing and pinching the nerve roots in the lumbar spine.</paragraph>
     <paragraph>Post-operative MRI</paragraph>
     <paragraph/>
