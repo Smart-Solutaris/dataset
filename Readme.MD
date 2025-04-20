@@ -6,7 +6,6 @@ PTCases contains case studies extracted from (Physiopedia, Witty, Pask & Bucking
 
 Additional annotations are included in the XML files.
 
-
 -------------
 Reference
 -------------
